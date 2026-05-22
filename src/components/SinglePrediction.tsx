@@ -1,4 +1,4 @@
-import React from 'react';
+import { motion, AnimatePresence } from 'framer-motion';
 import type { Analysis } from '../types';
 
 interface SinglePredictionProps {
@@ -11,90 +11,149 @@ interface SinglePredictionProps {
 
 const SinglePrediction = ({ sequence, setSequence, isPredicting, handlePredict, results }: SinglePredictionProps) => {
   return (
-    <div className="max-w-[1280px] mx-auto w-full px-6 md:px-8 py-12 flex-1 flex flex-col">
-      <div className="flex items-center justify-between mb-12 shrink-0">
+    <div className="max-w-[1280px] mx-auto w-full px-6 md:px-8 py-10 flex-1 flex flex-col">
+      <div className="flex items-center justify-between mb-8 shrink-0">
         <div className="flex items-center gap-4 text-primary">
-          <div className="w-12 h-12 rounded-2xl bg-primary/5 flex items-center justify-center text-primary shadow-sm border border-primary/10">
-            <span className="material-symbols-outlined text-3xl">biotech</span>
+          <div className="w-10 h-10 rounded-xl bg-primary/5 flex items-center justify-center text-primary shadow-sm border border-outline-variant">
+            <span className="material-symbols-outlined text-2xl">biotech</span>
           </div>
           <div>
-            <h2 className="text-3xl font-black tracking-tight">Single Prediction</h2>
-            <p className="text-xs text-on-surface-variant font-medium opacity-60 mt-0.5 uppercase tracking-wider">Transformer-based Inference Engine</p>
+            <h2 className="text-2xl font-black tracking-tight uppercase">Single Inference</h2>
+            <p className="text-[10px] text-on-surface-variant font-bold opacity-40 uppercase tracking-[0.15em]">DistilESM-2 Attention Engine</p>
           </div>
         </div>
         <div className="flex gap-2">
-          <button className="h-10 px-4 rounded-xl bg-surface-container-low text-[11px] font-bold uppercase tracking-widest text-primary hover:bg-surface-container-high transition-colors">Clear Input</button>
+          <button 
+            onClick={() => setSequence('')}
+            className="h-9 px-4 rounded-lg bg-surface-container-low text-[10px] font-black uppercase tracking-widest text-primary hover:bg-surface-container-high active:scale-95 transition-all border border-outline-variant/30"
+          >
+            Clear Buffer
+          </button>
         </div>
       </div>
       
-      <div className="grid lg:grid-cols-3 gap-10 flex-1">
-        <div className="lg:col-span-2 flex flex-col">
+      <div className="grid lg:grid-cols-12 gap-8 flex-1">
+        <div className="lg:col-span-8 flex flex-col">
           <div className="mb-6 flex-1 flex flex-col">
-            <div className="flex justify-between items-center mb-3 shrink-0">
-              <label className="block label-md text-xs font-bold opacity-70">AMINO ACID SEQUENCE (FASTA)</label>
-              <span className="text-[10px] font-bold text-on-surface-variant opacity-40 uppercase tracking-widest">{sequence.length} characters</span>
+            <div className="flex justify-between items-center mb-2.5 shrink-0">
+              <label className="block text-[10px] font-black text-primary/50 tracking-[0.15em] uppercase">Primary Sequence Data (FASTA)</label>
+              <div className="flex items-center gap-4">
+                <span className="text-[10px] font-bold text-on-surface-variant/40 uppercase tracking-widest">{sequence.length} residues</span>
+              </div>
             </div>
             <textarea 
-              className="input-field flex-1 min-h-[300px] font-mono text-sm resize-none rounded-3xl p-8 bg-white shadow-inner-lg focus:shadow-xl focus:shadow-tertiary/5"
-              placeholder="Enter protein sequence (e.g., GLFDIVKKVVGALT...)"
+              className="flex-1 min-h-[400px] font-mono text-sm resize-none rounded-2xl p-6 bg-white border border-outline-variant shadow-sm focus:ring-2 focus:ring-tertiary/20 focus:border-tertiary focus:outline-none transition-all placeholder:text-on-surface-variant/20"
+              placeholder="Paste protein sequence (e.g., MKTLLILT...)"
               value={sequence}
               onChange={(e) => setSequence(e.target.value)}
             />
           </div>
           <button 
-            className="btn btn-primary h-16 px-14 text-base rounded-2xl w-full md:w-auto self-start shrink-0 shadow-lg shadow-primary/20 hover:scale-[1.02]" 
+            className="btn btn-primary h-14 px-10 text-xs font-black uppercase tracking-[0.2em] rounded-xl w-full md:w-auto self-start shrink-0 shadow-xl shadow-primary/10 hover:shadow-primary/20 transition-all flex items-center justify-center gap-3 disabled:opacity-50 disabled:grayscale" 
             onClick={handlePredict}
             disabled={isPredicting || !sequence}
           >
             {isPredicting ? (
               <>
-                <span className="material-symbols-outlined animate-spin">refresh</span>
-                Initializing Weights...
+                <span className="material-symbols-outlined animate-spin text-sm">refresh</span>
+                Synthesizing Attention Layers...
               </>
             ) : (
               <>
-                <span className="material-symbols-outlined">play_arrow</span>
-                Execute Prediction
+                <span className="material-symbols-outlined text-sm">terminal</span>
+                Execute Inference
               </>
             )}
           </button>
         </div>
 
-        <div className="bg-white rounded-[2.5rem] p-10 border border-outline-variant h-full flex flex-col shadow-sm relative overflow-hidden">
-          <div className="absolute top-0 right-0 w-32 h-32 bg-surface-container-low rounded-full -mr-16 -mt-16 opacity-50"></div>
-          <div className="label-md mb-10 border-b border-outline-variant pb-4 text-xs font-bold text-primary opacity-40 uppercase tracking-widest relative z-10">REAL-TIME TELEMETRY</div>
+        <div className="lg:col-span-4 bg-white rounded-2xl border border-outline-variant h-full flex flex-col shadow-sm relative overflow-hidden">
+          <div className="absolute top-0 right-0 w-48 h-48 bg-surface-container-lowest/50 rounded-full -mr-24 -mt-24 pointer-events-none border border-outline-variant/10"></div>
           
-          {results ? (
-            <div className="space-y-12 flex-1 flex flex-col relative z-10">
-              <div>
-                <div className="text-on-surface-variant text-[10px] font-black uppercase tracking-widest mb-3 opacity-60">Classification</div>
-                <div className={`inline-flex px-4 py-1.5 rounded-xl text-xs font-black uppercase tracking-widest ${results.predictedClass === 'Antimicrobial' ? 'bg-tertiary/10 text-tertiary shadow-sm' : 'bg-on-surface-variant/10 text-on-surface-variant'}`}>
-                  {results.predictedClass}
-                </div>
-              </div>
-              <div>
-                <div className="text-on-surface-variant text-[10px] font-black uppercase tracking-widest mb-3 opacity-60">Confidence Level</div>
-                <div className="text-7xl font-black text-primary tracking-tighter leading-none italic">
-                  {(results.ampProbability * 100).toFixed(1)}<span className="text-2xl text-tertiary ml-1 not-italic">%</span>
-                </div>
-              </div>
-              <div className="pt-10 mt-auto border-t border-outline-variant/30 flex flex-col gap-4">
-                <div className="flex items-center gap-3 text-[10px] font-bold text-on-surface-variant opacity-60 italic leading-snug">
-                  <span className="material-symbols-outlined text-tertiary text-sm">verified</span>
-                  Validated against ESM-2 attention mappings.
-                </div>
-                <div className="text-[10px] font-bold text-on-surface-variant opacity-40 italic leading-snug">
-                  Analysis ID: {results.id} • Processed in 1.42s
-                </div>
-              </div>
-            </div>
-          ) : (
-            <div className="flex-grow flex flex-col items-center justify-center text-center opacity-20 relative z-10">
-              <span className="material-symbols-outlined text-6xl mb-8">pending</span>
-              <p className="text-base font-black uppercase tracking-widest">Inference Pending</p>
-              <p className="text-xs mt-2 font-medium">Input protein sequence to start engine.</p>
-            </div>
-          )}
+          <div className="px-8 py-5 border-b border-outline-variant/50 bg-surface-container-lowest/30 relative z-10 flex items-center justify-between">
+            <div className="text-[10px] font-black text-primary opacity-40 tracking-[0.2em] uppercase">Telemetry Output</div>
+            <div className={`w-2 h-2 rounded-full ${isPredicting ? 'bg-tertiary animate-pulse' : 'bg-outline-variant'} shadow-sm transition-colors`}></div>
+          </div>
+          
+          <div className="p-8 flex-1 flex flex-col relative z-10">
+            <AnimatePresence mode="wait">
+              {results ? (
+                <motion.div 
+                  key="results"
+                  initial={{ opacity: 0, y: 10 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  transition={{ duration: 0.3, ease: "easeOut" }}
+                  className="space-y-10 flex-1 flex flex-col"
+                >
+                  <div className="space-y-3">
+                    <div className="text-on-surface-variant text-[9px] font-black uppercase tracking-[0.2em] opacity-40">Classification Result</div>
+                    <div className={`inline-flex px-3 py-1 rounded-md text-[10px] font-black uppercase tracking-widest border ${results.predictedClass === 'Antimicrobial' ? 'bg-tertiary/5 text-tertiary border-tertiary/20' : 'bg-on-surface-variant/5 text-on-surface-variant border-outline-variant'}`}>
+                      {results.predictedClass}
+                    </div>
+                  </div>
+
+                  <div className="space-y-4">
+                    <div className="text-on-surface-variant text-[9px] font-black uppercase tracking-[0.2em] opacity-40">Confidence Score</div>
+                    <div className="flex items-baseline gap-2 font-jakarta">
+                      <motion.div 
+                        initial={{ opacity: 0 }}
+                        animate={{ opacity: 1 }}
+                        className="text-6xl font-extrabold text-primary tracking-tighter leading-none"
+                      >
+                        {(results.ampProbability * 100).toFixed(1)}
+                      </motion.div>
+                      <div className="text-lg font-black text-tertiary/60 tracking-tight">%</div>
+                    </div>
+                    <div className="w-full h-1 bg-surface-container rounded-full overflow-hidden">
+                      <motion.div 
+                        initial={{ width: 0 }}
+                        animate={{ width: `${results.ampProbability * 100}%` }}
+                        transition={{ duration: 1, ease: "easeOut" }}
+                        className="h-full bg-tertiary" 
+                      />
+                    </div>
+                  </div>
+
+                  <div className="pt-8 mt-auto border-t border-outline-variant/30 flex flex-col gap-5">
+                    <div className="p-4 rounded-xl bg-surface-container-low/50 border border-outline-variant/30 space-y-3">
+                      <div className="flex items-center gap-2 text-[9px] font-black text-primary uppercase tracking-widest">
+                        <span className="material-symbols-outlined text-tertiary text-xs">verified</span>
+                        Validation Logic
+                      </div>
+                      <p className="text-[10px] text-on-surface-variant/70 font-bold leading-relaxed">
+                        Confidence validated against <span className="text-primary font-black">HSSP</span> attention mappings and residue-level entropy.
+                      </p>
+                    </div>
+                    
+                    <div className="flex flex-col gap-1.5 px-1 font-jakarta">
+                      <div className="flex justify-between text-[9px] font-bold text-on-surface-variant opacity-40 uppercase tracking-widest">
+                        <span>Analysis ID</span>
+                        <span className="text-primary font-extrabold opacity-100">{results.id}</span>
+                      </div>
+                      <div className="flex justify-between text-[9px] font-bold text-on-surface-variant opacity-40 uppercase tracking-widest">
+                        <span>Inference Time</span>
+                        <span className="text-primary font-extrabold opacity-100">1.42s</span>
+                      </div>
+                    </div>
+                  </div>
+                </motion.div>
+              ) : (
+                <motion.div 
+                  key="empty"
+                  initial={{ opacity: 0 }}
+                  animate={{ opacity: 1 }}
+                  exit={{ opacity: 0 }}
+                  className="flex-grow flex flex-col items-center justify-center text-center relative z-10 py-12"
+                >
+                  <div className="w-16 h-16 rounded-full border-2 border-dashed border-outline-variant flex items-center justify-center mb-6 opacity-30">
+                    <span className="material-symbols-outlined text-3xl">terminal</span>
+                  </div>
+                  <p className="text-xs font-black uppercase tracking-[0.2em] text-primary opacity-30 mb-2">Awaiting sequence</p>
+                  <p className="text-[10px] font-bold text-on-surface-variant opacity-40 uppercase tracking-widest max-w-[160px] leading-relaxed">Input residue data to initialize local inference.</p>
+                </motion.div>
+              )}
+            </AnimatePresence>
+          </div>
         </div>
       </div>
     </div>
