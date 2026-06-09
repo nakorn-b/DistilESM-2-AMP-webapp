@@ -10,18 +10,33 @@ export async function inference_single_sequence(sequence_string: string) {
     });
 
     if (!response.ok) {
-        let errorData = await response.text()
-        throw new Error(`Inferencing error! status: ${errorData}`);
+        if (response.status === 422) {
+            throw new Error('Invalid Sequence: Input contains non-standard amino acids.');
+        }
+        throw new Error(`Inference failed with status: ${response.status}`);
     }
-        let response_json = await response.json()
-        console.log(response_json)
-        return response_json
+
+    let response_json = await response.json()
+    console.log(response_json)
+    return response_json
 }
 
 export async function inference_batch(file: File) {
     const formData = new FormData();
     formData.append('file', file)
+
+    const response = await fetch(`${apiURL}/predict_batch`, {
+        method: 'POST',
+        body: formData
+    })
+
+    if (!response.ok) {
+        if (response.status === 422) {
+            throw new Error('Invalid Batch: One or more sequences contain non-standard amino acids.');
+        }
+        let errorData = await response.text()
+        throw new Error(errorData || `Batch inference failed with status: ${response.status}`);
+    }
+
+    return response
 }
-
-
-
