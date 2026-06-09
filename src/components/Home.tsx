@@ -10,7 +10,7 @@ const Home = ({ setActivePage }: HomeProps) => {
   const [isModalOpen, setIsModalOpen] = useState(false);
   
   // Ultra-subtle ease for formal loading
-  const easeQuiet = [0.2, 0, 0, 1];
+  const easeQuiet: any = [0.2, 0, 0, 1];
 
   return (
     <div className="flex-1 flex flex-col items-center justify-center bg-white relative overflow-hidden h-full max-h-full font-sans">
