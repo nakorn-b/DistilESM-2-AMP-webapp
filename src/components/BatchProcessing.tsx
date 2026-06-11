@@ -6,7 +6,7 @@ interface BatchProcessingProps {
   handleBatchPredict: (file: File) => {};
   isPredicting?: boolean;
 }
-
+ 
 const BatchProcessing = ({ recentAnalyses, handleBatchPredict, isPredicting }: BatchProcessingProps) => {
   const fileInputRef = useRef<HTMLInputElement>(null);
   const [selectedFile, setSelectedFile] = useState<File | null>(null);
