@@ -69,10 +69,10 @@ const ModelMetadata = () => {
               </div>
             </div>
             <div className="flex flex-col gap-3">
-              <div className="text-[10px] font-bold uppercase text-on-surface-variant/50 tracking-widest font-sans">Context</div>
+              <div className="text-[10px] font-bold uppercase text-on-surface-variant/50 tracking-widest font-sans">Context length</div>
               <div className="flex items-baseline gap-2">
-                <span className="text-sm font-bold text-primary tabular-nums font-sans">1024</span>
-                <span className="text-[9px] font-bold text-on-surface-variant/50 uppercase tracking-tight font-sans">L-Max</span>
+                <span className="text-sm font-bold text-primary tabular-nums font-sans">512</span>
+                <span className="text-[9px] font-bold text-on-surface-variant/50 uppercase tracking-tight font-sans">amino acids</span>
               </div>
               <div className="h-1 bg-tertiary/10 w-full rounded-full overflow-hidden">
                 <div className="h-full bg-tertiary w-full" />

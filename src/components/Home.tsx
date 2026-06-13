@@ -47,10 +47,10 @@ const Home = ({ setActivePage }: HomeProps) => {
               Start Analysis
             </button>
             <button 
-              onClick={() => setIsModalOpen(true)}
+              // onClick={() => setIsModalOpen(true)}
               className="btn bg-white h-11 px-8 text-[10px] font-bold uppercase tracking-[0.2em] rounded-md border border-outline-variant hover:bg-surface-container-low transition-all text-on-surface/50 font-sans"
             >
-              Methodology
+              view paper
             </button>
           </div>
         </motion.div>

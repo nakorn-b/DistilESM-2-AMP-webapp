@@ -137,7 +137,6 @@ const BatchProcessing = ({ recentAnalyses, handleBatchPredict, isPredicting }: B
               </>
             ) : (
               <>
-                <span className="material-symbols-outlined text-sm">rocket_launch</span>
                 Start Batch Analysis
               </>
             )}
