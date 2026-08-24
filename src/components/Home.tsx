@@ -34,7 +34,7 @@ const Home = ({ setActivePage }: HomeProps) => {
             </div>
 
             <p className="text-on-surface-variant text-base lg:text-lg leading-relaxed max-w-xl font-medium font-serif italic opacity-70">
-              A high-fidelity inference system utilizing distilled transformer architectures for the probabilistic classification of peptide antimicrobial potential.
+              A inference system utilizing DistilESM-2-AMP, a distilled transformer architectures, for the classification of peptide antimicrobial potential.
             </p>
           </div>
 
@@ -126,16 +126,16 @@ const Home = ({ setActivePage }: HomeProps) => {
                 <section>
                   <h3 className="text-[11px] font-black uppercase tracking-[0.25em] text-tertiary mb-6">01 // Model Distillation</h3>
                   <p className="text-on-surface-variant text-sm md:text-base leading-relaxed font-serif italic mb-6 opacity-80">
-                    "DistilESM-2-AMP utilizes a specialized knowledge distillation framework designed for protein language models."
+                    "DistilESM-2-AMP utilizes a knowledge distillation framework designed for protein language models."
                   </p>
                   <div className="grid md:grid-cols-2 gap-8 text-[11px] leading-relaxed">
                     <div className="space-y-4">
                       <div className="font-bold uppercase tracking-widest text-primary pb-2 border-b border-outline-variant/20">Architecture</div>
-                      <p className="text-on-surface-variant font-medium">The teacher model (ESM-2, 33 layers, 650M parameters) is compressed into a 6-layer student transformer. This allows for near-instant inference in web environments without dedicated GPU acceleration.</p>
+                      <p className="text-on-surface-variant font-medium">The teacher model (ESM-2, facebook/esm2_t6_8M_UR50D, 6 layers, 7.62M parameters) is compressed into a 3-layer, 3.81M-parameter student transformer. This allows for near-instant inference in web environments without dedicated GPU acceleration.</p>
                     </div>
                     <div className="space-y-4">
                       <div className="font-bold uppercase tracking-widest text-primary pb-2 border-b border-outline-variant/20">Optimization</div>
-                      <p className="text-on-surface-variant font-medium">Layer-wise similarity loss and attention-map matching ensure that the student model retains the critical structural understanding of the parent transformer.</p>
+                      <p className="text-on-surface-variant font-medium">The student is initialized from selected teacher weights and optimized with a weighted combination of masked-language-modeling loss and a KL-divergence distillation loss, retaining the parent transformer's classification behavior.</p>
                     </div>
                   </div>
                 </section>
@@ -144,10 +144,10 @@ const Home = ({ setActivePage }: HomeProps) => {
                   <h3 className="text-[11px] font-black uppercase tracking-[0.25em] text-tertiary mb-6">02 // Performance Metrics</h3>
                   <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
                     {[
-                      { label: 'Accuracy', value: '94.2%' },
-                      { label: 'F1-Score', value: '0.91' },
-                      { label: 'MCC', value: '0.82' },
-                      { label: 'Speedup', value: '5.4x' }
+                      { label: 'Accuracy', value: '97.46%' },
+                      { label: 'F1-Score', value: '0.9749' },
+                      { label: 'MCC', value: '0.9495' },
+                      { label: 'Params', value: '3.81M' }
                     ].map((stat) => (
                       <div key={stat.label} className="p-4 bg-surface-container-low rounded-lg border border-outline-variant/20 text-center">
                         <div className="text-lg font-bold text-primary mb-1">{stat.value}</div>

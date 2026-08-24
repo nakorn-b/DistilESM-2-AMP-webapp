@@ -23,7 +23,7 @@ const ResearchAuthors = () => {
           <div className="space-y-4">
             <div className="h-px bg-outline-variant/30 w-full" />
             <div className="flex gap-3">
-              <a href="mailto:nakorn.b@ku.th" className="w-10 h-10 rounded-lg bg-surface-container-low flex items-center justify-center text-on-surface-variant hover:text-white hover:bg-primary transition-all">
+              <a href="mailto:boonprasongnakorn@gmail.com" className="w-10 h-10 rounded-lg bg-surface-container-low flex items-center justify-center text-on-surface-variant hover:text-white hover:bg-primary transition-all">
                 <span className="material-symbols-outlined text-xl">mail</span>
               </a>
               <a href="https://nakornb-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-lg bg-surface-container-low flex items-center justify-center text-on-surface-variant hover:text-white hover:bg-primary transition-all">
@@ -47,11 +47,8 @@ const ResearchAuthors = () => {
           <div className="space-y-4">
             <div className="h-px bg-outline-variant/30 w-full" />
             <div className="flex gap-3">
-              <a href="#" className="w-10 h-10 rounded-lg bg-surface-container-low flex items-center justify-center text-on-surface-variant hover:text-white hover:bg-primary transition-all">
+              <a href="mailto:thammakorn.s@ku.th" className="w-10 h-10 rounded-lg bg-surface-container-low flex items-center justify-center text-on-surface-variant hover:text-white hover:bg-primary transition-all">
                 <span className="material-symbols-outlined text-xl">mail</span>
-              </a>
-              <a href="#" className="w-10 h-10 rounded-lg bg-surface-container-low flex items-center justify-center text-on-surface-variant hover:text-white hover:bg-primary transition-all">
-                <span className="material-symbols-outlined text-xl">public</span>
               </a>
             </div>
           </div>
@@ -66,10 +63,10 @@ const ResearchAuthors = () => {
               <div className="w-8 h-8 rounded-lg bg-white/10 flex items-center justify-center shrink-0 border border-white/10">
                 <span className="material-symbols-outlined text-lg">menu_book</span>
               </div>
-              <span className="text-[9px] font-bold uppercase tracking-[0.3em] text-white/40 font-sans">Technical Report</span>
+              <span className="text-[9px] font-bold uppercase tracking-[0.3em] text-white/40 font-sans">Manuscript</span>
             </div>
             <h4 className="text-lg font-bold leading-snug relative z-10 tracking-tight font-serif italic">
-              "DistilESM-2-AMP: Efficient Transformer Distillation for High-Throughput Peptide Classification."
+              "DistilESM-2-AMP: A compact protein language model and web application for antimicrobial peptide classification"
             </h4>
           </div>
 

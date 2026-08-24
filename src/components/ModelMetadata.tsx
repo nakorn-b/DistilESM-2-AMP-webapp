@@ -1,3 +1,67 @@
+const secondaryCards = [
+  { id: 'pretraining', label: 'Pre-training', value: '8M', caption: 'UniRef50 Sequences' },
+  { id: 'finetuning', label: 'Fine-tuning', value: '18,807', caption: 'Experimental AMPs' },
+  { id: 'modelsize', label: 'Model Size', value: '14.56 MB', caption: 'On-Disk Checkpoint' },
+  {
+    id: 'parameters',
+    label: 'Parameters',
+    value: '3.81M',
+    caption: 'Distilled Transformer',
+    note: "Reduced from the ESM-2 teacher's 7.62M parameters via knowledge distillation",
+  },
+];
+
+const architectureRows = [
+  { id: 'embedding', label: 'Embedding', value: '320', unit: 'Hidden Size' },
+  { id: 'attention', label: 'Attention', value: '20', unit: 'Heads' },
+  { id: 'contextlength', label: 'Context', value: '512', unit: 'Amino Acids' },
+  {
+    id: 'layers',
+    label: 'Layers',
+    value: '3',
+    unit: 'of 6, Distilled',
+    note: 'Three-layer student distilled from the six-layer ESM-2 teacher',
+  },
+];
+
+const TooltipLabel = ({ id, note, className, children }: { id: string; note?: string; className: string; children: React.ReactNode }) => (
+  <>
+    <span
+      className={`${className} ${note ? 'border-b border-dotted border-on-surface-variant/50 cursor-help w-fit' : ''}`}
+      tabIndex={note ? 0 : undefined}
+      title={note}
+      aria-describedby={note ? `${id}-definition` : undefined}
+    >
+      {children}
+    </span>
+    {note && <span id={`${id}-definition`} className="sr-only">{note}</span>}
+  </>
+);
+
+const StatCard = ({ card }: { card: { id: string; label: string; value: string; caption: string; note?: string } }) => (
+  <div className="bg-white p-6 sm:p-8 rounded-lg border border-outline-variant">
+    <TooltipLabel id={card.id} note={card.note} className="block text-[10px] font-bold text-on-surface-variant mb-3 uppercase tracking-[0.2em] font-sans">
+      {card.label}
+    </TooltipLabel>
+    <div className="text-2xl sm:text-3xl lg:text-4xl font-bold mb-2 text-primary tracking-tight tabular-nums font-sans">
+      {card.value}
+    </div>
+    <p className="text-[10px] leading-relaxed text-on-surface-variant font-bold uppercase tracking-widest font-sans">{card.caption}</p>
+  </div>
+);
+
+const SpecRow = ({ row }: { row: { id: string; label: string; value: string; unit: string; note?: string } }) => (
+  <div className="px-8 py-4 flex items-center justify-between gap-4">
+    <TooltipLabel id={row.id} note={row.note} className="text-[11px] font-bold text-on-surface-variant uppercase tracking-widest">
+      {row.label}
+    </TooltipLabel>
+    <span className="text-sm font-bold text-primary tabular-nums text-right whitespace-nowrap">
+      {row.value}
+      <span className="ml-2 text-[10px] font-bold text-on-surface-variant uppercase tracking-widest">{row.unit}</span>
+    </span>
+  </div>
+);
+
 const ModelMetadata = () => {
   return (
     <div className="max-w-[1280px] mx-auto w-full px-6 md:px-8 py-10 flex-1 flex flex-col">
@@ -7,88 +71,39 @@ const ModelMetadata = () => {
         </div>
         <div className="flex flex-col">
           <h2 className="text-2xl font-bold tracking-tight uppercase leading-none font-sans">Technical Metadata</h2>
-          <span className="text-[10px] font-bold text-on-surface-variant/40 uppercase tracking-[0.2em] mt-1 font-sans">Model Architecture & Benchmarks</span>
+          <span className="text-[10px] font-bold text-on-surface-variant uppercase tracking-[0.2em] mt-1 font-sans">Model Architecture & Benchmarks</span>
         </div>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 shrink-0 mb-12">
-        <div className="bg-white p-8 rounded-lg border border-outline-variant hover:border-tertiary/50 transition-all duration-300 group">
-          <div className="text-[10px] font-bold text-tertiary mb-3 uppercase tracking-[0.2em] font-sans">Pre-training</div>
-          <div className="text-4xl font-bold mb-2 text-primary tracking-tight tabular-nums group-hover:text-tertiary transition-colors font-sans">8M</div>
-          <p className="text-[10px] leading-relaxed text-on-surface-variant font-bold opacity-60 uppercase tracking-widest font-sans">UniRef50 Sequences</p>
+      <div className="bg-white p-6 sm:p-8 rounded-lg border border-outline-variant mb-6 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 font-sans">
+        <div>
+          <TooltipLabel id="mcc" note="Matthews Correlation Coefficient, averaged across 5 random seeds" className="block text-[10px] font-bold text-on-surface-variant mb-2 uppercase tracking-[0.2em]">
+            Test MCC (n=5)
+          </TooltipLabel>
+          <p className="text-[10px] leading-relaxed text-on-surface-variant font-bold uppercase tracking-widest">Cross-Seed Robustness</p>
         </div>
-        
-        <div className="bg-white p-8 rounded-lg border border-outline-variant hover:border-tertiary/50 transition-all duration-300 group">
-          <div className="text-[10px] font-bold text-tertiary mb-3 uppercase tracking-[0.2em] font-sans">Fine-tuning</div>
-          <div className="text-4xl font-bold mb-2 text-primary tracking-tight tabular-nums group-hover:text-tertiary transition-colors font-sans">18,000+</div>
-          <p className="text-[10px] leading-relaxed text-on-surface-variant font-bold opacity-60 uppercase tracking-widest font-sans">Experimental AMPs</p>
-        </div>
-
-        <div className="bg-white p-8 rounded-lg border border-outline-variant hover:border-tertiary/50 transition-all duration-300 group">
-          <div className="text-[10px] font-bold text-tertiary mb-3 uppercase tracking-[0.2em] font-sans">Model Size</div>
-          <div className="text-4xl font-bold mb-2 text-primary tracking-tight tabular-nums group-hover:text-tertiary transition-colors font-sans">13.4 MB</div>
-          <p className="text-[10px] leading-relaxed text-on-surface-variant font-bold opacity-60 uppercase tracking-widest font-sans">650M Transformer</p>
-        </div>
-
-        <div className="bg-white p-8 rounded-lg border border-outline-variant hover:border-tertiary/50 transition-all duration-300 group">
-          <div className="text-[10px] font-bold text-tertiary mb-3 uppercase tracking-[0.2em] font-sans">Test MCC (n=5)</div>
-          <div className="text-4xl font-bold mb-2 text-primary tracking-tight tabular-nums flex items-baseline gap-1 group-hover:text-tertiary transition-colors font-sans">
-            0.9760
-            <span className="text-xs font-bold text-on-surface-variant/50 tracking-normal">±0.0025</span>
-          </div>
-          <p className="text-[10px] leading-relaxed text-on-surface-variant font-bold opacity-60 uppercase tracking-widest font-sans">Cross-Seed Robustness</p>
+        <div className="flex items-baseline gap-2 flex-wrap">
+          <span className="text-4xl sm:text-5xl font-bold text-primary tracking-tight tabular-nums">0.9495</span>
+          <span className="text-sm font-bold text-on-surface-variant tracking-normal">±0.0066</span>
         </div>
       </div>
 
-      <div className="bg-white border border-outline-variant rounded-lg p-10 flex-1 flex flex-col justify-center relative overflow-hidden">
-        <div className="max-w-4xl relative z-10">
-          <div className="text-[10px] font-bold text-tertiary uppercase tracking-[0.3em] mb-6 font-sans">Architectural Overview</div>
-          <p className="text-primary font-medium text-lg md:text-xl leading-[1.6] mb-12 max-w-2xl font-serif">
-            DistilESM-2-AMP employs a specialized distillation method where the complex attention mechanisms of ESM-2 are compressed into efficient inference heads, optimized for rapid screening.
-          </p>
-          
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-8 md:gap-12">
-            <div className="flex flex-col gap-3">
-              <div className="text-[10px] font-bold uppercase text-on-surface-variant/50 tracking-widest font-sans">Embedding</div>
-              <div className="flex items-baseline gap-2">
-                <span className="text-sm font-bold text-primary tabular-nums font-sans">384</span>
-                <span className="text-[9px] font-bold text-on-surface-variant/50 uppercase tracking-tight font-sans">Hidden Size</span>
-              </div>
-              <div className="h-1 bg-tertiary/10 w-full rounded-full overflow-hidden">
-                <div className="h-full bg-tertiary w-[30%]" />
-              </div>
-            </div>
-            <div className="flex flex-col gap-3">
-              <div className="text-[10px] font-bold uppercase text-on-surface-variant/50 tracking-widest font-sans">Attention</div>
-              <div className="flex items-baseline gap-2">
-                <span className="text-sm font-bold text-primary tabular-nums font-sans">3</span>
-                <span className="text-[9px] font-bold text-on-surface-variant/50 uppercase tracking-tight font-sans">Heads</span>
-              </div>
-              <div className="h-1 bg-tertiary/10 w-full rounded-full overflow-hidden">
-                <div className="h-full bg-tertiary w-[25%]" />
-              </div>
-            </div>
-            <div className="flex flex-col gap-3">
-              <div className="text-[10px] font-bold uppercase text-on-surface-variant/50 tracking-widest font-sans">Context length</div>
-              <div className="flex items-baseline gap-2">
-                <span className="text-sm font-bold text-primary tabular-nums font-sans">512</span>
-                <span className="text-[9px] font-bold text-on-surface-variant/50 uppercase tracking-tight font-sans">amino acids</span>
-              </div>
-              <div className="h-1 bg-tertiary/10 w-full rounded-full overflow-hidden">
-                <div className="h-full bg-tertiary w-full" />
-              </div>
-            </div>
-            <div className="flex flex-col gap-3">
-              <div className="text-[10px] font-bold uppercase text-on-surface-variant/50 tracking-widest font-sans">Layers</div>
-              <div className="flex items-baseline gap-2">
-                <span className="text-sm font-bold text-primary tabular-nums font-sans">6</span>
-                <span className="text-[9px] font-bold text-on-surface-variant/50 uppercase tracking-tight font-sans">Distilled</span>
-              </div>
-              <div className="h-1 bg-tertiary/10 w-full rounded-full overflow-hidden">
-                <div className="h-full bg-tertiary w-[18%]" />
-              </div>
-            </div>
-          </div>
+      <div className="grid grid-cols-2 lg:grid-cols-4 gap-6 shrink-0 mb-8">
+        {secondaryCards.map((card) => (
+          <StatCard key={card.id} card={card} />
+        ))}
+      </div>
+
+      <div className="bg-white border border-outline-variant rounded-lg p-10 font-sans">
+        <div className="text-[10px] font-bold text-on-surface-variant uppercase tracking-[0.2em] mb-6">Architectural Overview</div>
+        <p className="text-primary font-medium text-lg md:text-xl leading-[1.6] max-w-2xl font-serif mb-8">
+          DistilESM-2-AMP is trained via knowledge distillation from the ESM-2 teacher (facebook/esm2_t6_8M_UR50D): a three-layer student is initialized from selected teacher weights and optimized with a weighted combination of masked-language-modeling and distillation loss, halving transformer depth and parameter count while retaining near-teacher classification performance.
+        </p>
+
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 divide-y sm:divide-y-0 sm:divide-x divide-outline-variant border-t border-outline-variant">
+          {architectureRows.map((row) => (
+            <SpecRow key={row.id} row={row} />
+          ))}
         </div>
       </div>
     </div>

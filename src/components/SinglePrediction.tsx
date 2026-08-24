@@ -36,7 +36,7 @@ const SinglePrediction = ({ sequence, setSequence, isPredicting, handlePredict, 
         <div className="lg:col-span-8 flex flex-col min-h-[400px] lg:h-full">
           <div className="mb-6 flex-1 flex flex-col min-h-0">
             <div className="flex justify-between items-center mb-2.5 shrink-0">
-              <label className="block text-[10px] font-bold text-primary/50 tracking-[0.15em] uppercase font-sans">Primary Sequence Data (FASTA)</label>
+              <label className="block text-[10px] font-bold text-primary/50 tracking-[0.15em] uppercase font-sans">Primary Sequence Data (CSV)</label>
               <div className="flex items-center gap-4">
                 <span className="text-[10px] font-bold text-on-surface-variant/40 uppercase tracking-widest font-sans">{sequence.length} residues</span>
               </div>
