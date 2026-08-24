@@ -4,7 +4,6 @@ export async function inference_single_sequence(sequence_string: string) {
     if (!apiURL) {
         throw new Error('Inference API URL is not configured.');
     }
-    console.log(apiURL);
     const response = await fetch(`${apiURL}/predict`, {
         method: 'POST',
         headers: {
