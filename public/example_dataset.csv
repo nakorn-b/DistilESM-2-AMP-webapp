@@ -1,0 +1,1001 @@
+8"","ID","sequence","seq_length","Activity","label"
+"469","DRAMP08130","RWWKIWVWRWWR",12,"Antimicrobial, Antibacterial",1
+"707","DRAMP01255","SAVGRHGRRFGLRKHRKH",18,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"82","DRAMP17572","KLTKPKPQAESKKKKK",16,"Antimicrobial, Antibacterial, Antifungal",1
+"544","DRAMP08479","RIHVIWRR",8,"Antimicrobial, Antibacterial",1
+"301","DRAMP07356","MRIRKWQLS",9,"Antimicrobial, Antibacterial",1
+"509","DRAMP08307","RRAAVFLIVIRR",12,"Antimicrobial, Antibacterial",1
+"4","DRAMP04744","KNLRRIIRKIGHIIKKYG",18,"Antimicrobial, Antibacterial",1
+"967","DRAMP01344","LLPIVGKLLSGLL",13,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"420","DRAMP07878","RRWRIVPIRVRR",12,"Antimicrobial, Antibacterial",1
+"359","DRAMP07562","RKWYIVQKK",9,"Antimicrobial, Antibacterial",1
+"634","DRAMP27840","EKIGKEFKRIVQRIKDFLRN",20,"Antimicrobial, Antibacterial",1
+"800","DRAMP18373","CMSYGGSCQRSCNGGFRLGGHCGHPKIRCCRRK",33,"Antimicrobial, Antibacterial, Anti-Gram-",1
+"360","DRAMP07565","HKWRPVNRM",9,"Antimicrobial, Antibacterial",1
+"352","DRAMP07534","TSKKTKQVR",9,"Antimicrobial, Antibacterial",1
+"688","DRAMP00218","RCTCTTIISSSSTF",14,"Antimicrobial, Antibacterial, Anti-Gram+",1
+"983","DRAMP01699","GLWSKIKDVAAAAGKAALGAVNEALGEQ",28,"Antimicrobial, Antibacterial",1
+"101","DRAMP17973","GKPNKPRPAPIKPRPPHPRL",20,"Antimicrobial, Antibacterial",1
+"561","DRAMP08585","RIWVIWRW",8,"Antimicrobial, Antibacterial",1
+"316","DRAMP07412","GLRHGNYRW",9,"Antimicrobial, Antibacterial",1
+"618","DRAMP27739","RQYMECYKQAERYGNRGYRR",20,"Antimicrobial, Antibacterial",1
+"857","DRAMP03947","GGLIKIVPAMICAVTKKC",18,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"176","DRAMP06770","RSIMTQRWW",9,"Antimicrobial, Antibacterial",1
+"962","DRAMP01176","AVLDFIKAAGKGLVTNIMEKVG",22,"Antimicrobial, Antibacterial",1
+"487","DRAMP08203","RWWKIWVIRWWS",12,"Antimicrobial, Antibacterial",1
+"272","DRAMP07248","KRIWHIWRW",9,"Antimicrobial, Antibacterial",1
+"300","DRAMP07352","FIIRGRWAN",9,"Antimicrobial, Antibacterial",1
+"1045","DRAMP02754","GWKDWLKKGKEWLKAKGPGIVKAALQAATQ",30,"Antimicrobial, Antibacterial, Antifungal",1
+"402","DRAMP07788","RWWRIVVIRVRR",12,"Antimicrobial, Antibacterial",1
+"595","DRAMP08851","LRLRHRVLF",9,"Antimicrobial, Antibacterial",1
+"243","DRAMP07115","RKYGRSVPH",9,"Antimicrobial, Antibacterial",1
+"54","DRAMP14643","CGKLLEQKNFFLKTR",15,"Antimicrobial, Antifungal, Antibacterial",1
+"536","DRAMP08446","MIWVIWRR",8,"Antimicrobial, Antibacterial",1
+"809","DRAMP02813","FHPSLWVLIPQYIQLIRKILKSG",23,"Antimicrobial, Antibacterial, Anti-Gram+",1
+"188","DRAMP06830","KMKEGAKGF",9,"Antimicrobial, Antibacterial",1
+"129","DRAMP06534","RAARIVVIRVAR",12,"Antimicrobial, Antibacterial",1
+"828","DRAMP03098","HRHQGPIFDTRPSPFNPNQPRPGPIY",26,"Antimicrobial, Antibacterial, Antifungal",1
+"616","DRAMP27731","RQYMECYEQAARYGNRSYRR",20,"Antimicrobial, Antibacterial",1
+"1127","DRAMP03966","KLKLFKKIGIGKFLHSAKKF",20,"Antimicrobial, Antibacterial",1
+"476","DRAMP08168","RWWKIWVIRVWR",12,"Antimicrobial, Antibacterial",1
+"649","DRAMP27901","SGVCEISGRL",10,"Antimicrobial, Antibacterial",1
+"598","DRAMP08910","NSQIRPLPDKGLDLSIRDASIKIRGKWKARKNFIK",35,"Antimicrobial, Antibacterial",1
+"112","DRAMP18035","KWKLFKKIGIGAVLKVLTTGLPALTLTK",28,"Antimicrobial, Antibacterial",1
+"1349","AP00881","SLLGTVKDLLIGAGKSAAQSVLKGLSGKLSKDC",33,NA,1
+"642","DRAMP27877","CRTGRCATRESLSGVCEISGRLYRL",25,"Antimicrobial, Antibacterial",1
+"1083","DRAMP03307","ADTLACRQSHQSCSFVACRAPSVDIGTCRGGKLKCCKWAPSS",42,"Antimicrobial, Antibacterial",1
+"460","DRAMP08075","RWWKIAVIRWWR",12,"Antimicrobial, Antibacterial",1
+"399","DRAMP07771","RAWRIVVIRVRR",12,"Antimicrobial, Antibacterial",1
+"1282","DRAMP21115","KWCFRRCYRGICYRRCR",17,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"682","DRAMP28512","GKKGGKGGKGKGK",13,"Antimicrobial, Antibacterial",1
+"1201","DRAMP18699","FLGGLLASLLGKI",13,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"1341","AP01622","GLGSLLGKAFKIGLKTVGKMMGGAPREQ",28,NA,1
+"628","DRAMP27817","GIWDTIKSMGKVFAGKILQNL",21,"Antimicrobial, Antibacterial",1
+"856","DRAMP03927","KWKLFKKIGAVLKVL",15,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"1115","DRAMP03654","SPIHACRYQRGVCIPGPCRWPYYRVGSCGSGLKSCCVRNRWA",42,"Antimicrobial, Antibacterial, Anti-Gram-",1
+"1098","DRAMP03446","RKRNTKFRQCEKMGGICKYQKTHGCSILPAECKSRYKHCCRL",42,"Antimicrobial, Antibacterial",1
+"815","DRAMP18368","SMSGFSKPHD",10,"Antimicrobial, Antibacterial",1
+"824","DRAMP03075","WNPFKELERAGQRVRDAIISAGPAVATVAQATALAK",36,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"837","DRAMP03574","FKRIVQRIKDFLRNLV",16,"Antimicrobial, Antibacterial, Anti-Gram-, Anticancer",1
+"55","DRAMP14644","ASKQASKQASKQASKQASKQASRSLKNHLL",30,"Antimicrobial, Antifungal, Antibacterial",1
+"1143","DRAMP04225","GKPRPYLPRPTSHPRPIRV",19,"Antimicrobial, Antibacterial",1
+"478","DRAMP08172","RWWKIWVIRWDR",12,"Antimicrobial, Antibacterial",1
+"283","DRAMP07286","QWIKIRFSR",9,"Antimicrobial, Antibacterial",1
+"1150","DRAMP04344","ILKLFKRIVKRILKFLRKL",19,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"806","DRAMP01623","LIGPVLGLVGSALGGLLKKI",20,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, hemolytic against mammalian cells, Antifungal",1
+"35","DRAMP15468","RCLCVLGVC",9,"Antimicrobial, Antibacterial, Antiviral",1
+"198","DRAMP06895","KIRNRKIKW",9,"Antimicrobial, Antibacterial",1
+"956","DRAMP01130","ILGPVLGLVSNALGGLLKNI",20,"Antimicrobial, Antibacterial, Antifungal",1
+"1368","CAMPSQ3146","GILDTIKNAAKTVAVGLLEKIKCKMTGC",28,NA,1
+"916","DRAMP00057","CKQSCSFGPFTFVCDGNTK",19,"Antimicrobial, Antibacterial",1
+"426","DRAMP07897","RRWRIVVQRVRR",12,"Antimicrobial, Antibacterial",1
+"1158","DRAMP04375","INSLKLGKKILGAL",14,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"814","DRAMP02912","RGLRRLGRKIAHGVKKYGPTVLRIIRIAG",29,"Antimicrobial, Antibacterial, Antifungal",1
+"1181","DRAMP18501","WKSYVRRWRS",10,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"211","DRAMP06965","WSAIRKKGK",9,"Antimicrobial, Antibacterial",1
+"113","DRAMP18049","GIAKFLHSAKKFGKAFVAEIMNS",23,"Antimicrobial, Antibacterial",1
+"208","DRAMP06946","KFIVVKRVV",9,"Antimicrobial, Antibacterial",1
+"377","DRAMP07647","KLWDKRWMP",9,"Antimicrobial, Antibacterial",1
+"43","DRAMP15497","RCLCVLRIC",9,"Antimicrobial, Antibacterial, Antiviral",1
+"918","DRAMP00072","AYPGNGVHCGKYSCTVDKQTAIGNIGNNAA",30,"Antimicrobial, Antibacterial, Anti-Gram+",1
+"465","DRAMP08108","RWWKIWRIRWWR",12,"Antimicrobial, Antibacterial",1
+"998","DRAMP01972","FLPLLPSALPSFLCLVFKKC",20,"Antimicrobial, Antibacterial, Antifungal",1
+"511","DRAMP08314","RRAAVNLIVIRR",12,"Antimicrobial, Antibacterial",1
+"1061","DRAMP02988","AGFAAQAAASLAPVAAQQL",19,"Antimicrobial, Antibacterial, Antifungal",1
+"1373","AP02513","GFRKRFNKLVKKVKHTIKETANVSKDVAIVAGSGVAVGAAMG",42,NA,1
+"1370","CAMPSQ1399","QKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCR",36,NA,1
+"1135","DRAMP04093","ATCDLASIWNVNHTLCAAHCIARRYRGGYCNSKAVCVCR",39,"Antimicrobial, Antibacterial, Anti-Gram+",1
+"1302","DRAMP21262","AAKLLLKLLLKAA",13,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"497","DRAMP08249","RRFAVVLIVIRR",12,"Antimicrobial, Antibacterial",1
+"1060","DRAMP02985","RRCICTTRTCRFPYRRLGTCLFQNRVYTFCC",31,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal, Antiviral",1
+"125","DRAMP06519","FLARIVVIRVAR",12,"Antimicrobial, Antibacterial",1
+"745","DRAMP01750","FLPLVGKILSGLI",13,"Antimicrobial, Antibacterial, Anti-Gram+",1
+"1376","AP02365","VIVKAIATLSKKLL",14,NA,1
+"552","DRAMP08529","RIWVYWRR",8,"Antimicrobial, Antibacterial",1
+"6","DRAMP04763","RVWCRRRCYRGFCRYFCR",18,"Antimicrobial, Antibacterial, Antifungal",1
+"1247","DRAMP20984","KFWKLLKKALRLWAKVL",17,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"1050","DRAMP02805","SCASRCKGHCRARRCGYYVSVLYRGRCYCKCLRC",34,"Antimicrobial, Antibacterial, Antiviral",1
+"796","DRAMP02363","AGWGSIFKHIFKAGKFIHGAIQAHND",26,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"244","DRAMP07118","RRWQEKGWR",9,"Antimicrobial, Antibacterial",1
+"458","DRAMP08069","RWWKRWVIRWWR",12,"Antimicrobial, Antibacterial",1
+"88","DRAMP17686","VKYPYLVELYAKHVIRDSGYIENVPPVIYEDVVKRVEEIKREENLTID",48,"Antimicrobial, Antibacterial",1
+"758","DRAMP01911","SIWEGIKNAGKGFLVSILDKVRCKVAGGCNP",31,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"419","DRAMP07874","RRWRIVKIRVRR",12,"Antimicrobial, Antibacterial",1
+"708","DRAMP01288","FLSLIPHIVSGVASIAKHF",19,"Antimicrobial, Antibacterial, Antifungal",1
+"637","DRAMP27860","GFMGDTLKGIAKNAALALMNAAQCKLSGKC",30,"Antimicrobial, Antibacterial",1
+"1305","DRAMP21282","AKRIVQRIKDFLR",13,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"808","DRAMP02811","GFGCPNNYQCHRHCKSIPGRCGGYCGGWHRLRCTCYRC",38,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"13","DRAMP04835","KKWKKFIKKIGIGAVLTTPGAKK",23,"Antimicrobial, Antibacterial",1
+"802","DRAMP02402","FLPKMSTKLRVPYRRGTKDYH",21,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"524","DRAMP08382","RRAAVVLIVERR",12,"Antimicrobial, Antibacterial",1
+"253","DRAMP07171","PLSRVRNRW",9,"Antimicrobial, Antibacterial",1
+"724","DRAMP18392","AKKPVAKKAAGGVKKPK",17,"Antimicrobial, Antibacterial",1
+"625","DRAMP27801","VDKPDYRPRPRPPNM",15,"Antimicrobial, Antibacterial",1
+"1165","DRAMP18437","LTCDLLSFEAKGFAANHSLCAAHCLAIGRKGGACQNGVCVCRR",43,"Antimicrobial, Antibacterial",1
+"546","DRAMP08495","RIWEIWRR",8,"Antimicrobial, Antibacterial",1
+"776","DRAMP02135","GFLGSLLKTGLKVGSNLL",18,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"879","DRAMP04076","AKKVFKRLEKLFSKIQNWK",19,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"2","DRAMP04728","KNLRRSIRKIIHIIKKYG",18,"Antimicrobial, Antibacterial",1
+"448","DRAMP08002","REWKIWVIRWWR",12,"Antimicrobial, Antibacterial",1
+"974","DRAMP01566","GLVASIGRALGGLLADVVKSKEQPA",25,"Antimicrobial, Antibacterial",1
+"731","DRAMP01550","GLLGAMFKVASKVLPHVVPAITEHF",25,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"41","DRAMP15488","RCICVLRFC",9,"Antimicrobial, Antibacterial, Antiviral",1
+"869","DRAMP04031","KRWRIRVRVIRK",12,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"181","DRAMP06791","TRSVVRKKL",9,"Antimicrobial, Antibacterial",1
+"1119","DRAMP03705","LFFLPSLIGGLISAIK",16,"Antimicrobial, Antibacterial",1
+"479","DRAMP08180","RWWKIWVIRWMR",12,"Antimicrobial, Antibacterial",1
+"133","DRAMP06547","RRARIVVIRVAR",12,"Antimicrobial, Antibacterial",1
+"664","DRAMP27992","RGRKVVRA",8,"Antimicrobial, Antibacterial",1
+"145","DRAMP06595","RLARFVVIRVAR",12,"Antimicrobial, Antibacterial",1
+"455","DRAMP08062","RWWKHWVIRWWR",12,"Antimicrobial, Antibacterial",1
+"979","DRAMP01681","GLWSKIKTAGKEAAKAAAKAAGKAALNAVSEAI",33,"Antimicrobial, Antibacterial",1
+"985","DRAMP02819","GLLKRIKTLL",10,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"1314","DRAMP21364","KKLKAFLKAWAKLFKAL",17,"Antimicrobial, Antibacterial, Anti-Gram-",1
+"605","DRAMP27674","RRYYEQLEQASRKGNRGFRR",20,"Antimicrobial, Antibacterial",1
+"559","DRAMP08549","RIWVIWAR",8,"Antimicrobial, Antibacterial",1
+"121","DRAMP06472","RVLIVIRARRVA",12,"Antimicrobial, Antibacterial",1
+"27","DRAMP15422","GICYCICGRGICRCICGR",18,"Antimicrobial, Antibacterial, Antiviral",1
+"442","DRAMP07965","RRWRIVVIRVRF",12,"Antimicrobial, Antibacterial",1
+"653","DRAMP27918","TCHCRRSCYSTEYSYGTCTVM",21,"Antimicrobial, Antibacterial",1
+"1296","DRAMP21234","WKRIVRRIKRWLR",13,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"1035","DRAMP02673","GIINTLQKYYCRVRGGRCAVLTCLPKEEQIGKCSTRGRKCCRRKK",45,"Antimicrobial, Antibacterial",1
+"297","DRAMP07329","MVRPNRIRR",9,"Antimicrobial, Antibacterial",1
+"277","DRAMP07273","GMRHFKWGI",9,"Antimicrobial, Antibacterial",1
+"679","DRAMP28484","LRHGSGLGHSSSHGQHGSGSGR",22,"Antimicrobial, Antibacterial",1
+"406","DRAMP07811","RRWDIVVIRVRR",12,"Antimicrobial, Antibacterial",1
+"159","DRAMP06664","RLARIVVVRVAR",12,"Antimicrobial, Antibacterial",1
+"323","DRAMP07433","RRRPGQKKW",9,"Antimicrobial, Antibacterial",1
+"403","DRAMP07789","RYWRIVVIRVRR",12,"Antimicrobial, Antibacterial",1
+"148","DRAMP06605","RLARSVVIRVAR",12,"Antimicrobial, Antibacterial",1
+"739","DRAMP01668","ALWKTMLKKLGTMALHAGKAALGAAADTISQGTQ",34,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal, Antiprotozoal",1
+"414","DRAMP07853","RRWRIHVIRVRR",12,"Antimicrobial, Antibacterial",1
+"350","DRAMP07531","RMKTWKNWM",9,"Antimicrobial, Antibacterial",1
+"568","DRAMP08736","LKQFVHFIHRF",11,"Antimicrobial, Antibacterial",1
+"1052","DRAMP02818","ILQKAVLDCLKAAGSSLSKAAITAIYNKIT",30,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"25","DRAMP18742","RCICTRGIC",9,"Antimicrobial, Antibacterial, Antiviral",1
+"529","DRAMP08413","RRAAVVLIVITR",12,"Antimicrobial, Antibacterial",1
+"1358","AP02527","FLPLILPSIVTALSSFLKQG",20,NA,1
+"1128","DRAMP04008","GLLSGILNTAGGLLGNLIGSLSN",23,"Antimicrobial, Antibacterial, Antifungal, Antiviral",1
+"1006","DRAMP01110","GIGGVLLSAGKAALKGLAKVLAEKYAN",27,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal, Antiviral, Anti-cancer",1
+"349","DRAMP07529","VKIKKRHQN",9,"Antimicrobial, Antibacterial",1
+"1001","DRAMP02015","GLWETIKNFGKKFTLNILHNLKCKIGGGC",29,"Antimicrobial, Antibacterial",1
+"812","DRAMP02865","VRNFVTCRINRGFCVPIRCPGHRRQIGTCLGPQIKCCR",38,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"273","DRAMP07259","IKILVLRVI",9,"Antimicrobial, Antibacterial",1
+"514","DRAMP08329","RRAAVVIIVIRR",12,"Antimicrobial, Antibacterial",1
+"203","DRAMP06923","FDRAGRKLI",9,"Antimicrobial, Antibacterial",1
+"1000","DRAMP18283","KTKQQFLIKAQTQLFKVFGYTL",22,"Antimicrobial, Antibacterial",1
+"565","DRAMP08701","ATCDLLSGFGVGDSACAAHCIARGNRGGYCNSKKVCVCRN",40,"Antimicrobial, Antibacterial, Antifungal",1
+"1301","DRAMP21260","AAKAAAKAAAKAA",13,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"810","DRAMP01383","ATAWDFGPHGLLPIRPIRIRPLCGKDKS",28,"Antimicrobial, Antibacterial, Antifungal, Anti-Gram+, Anti-Gram-",1
+"166","DRAMP06693","RLARIVVIRIAR",12,"Antimicrobial, Antibacterial",1
+"179","DRAMP06778","KHRKWWKRQ",9,"Antimicrobial, Antibacterial",1
+"255","DRAMP07180","WIVVKKQNR",9,"Antimicrobial, Antibacterial",1
+"379","DRAMP07661","WWKNKHHWK",9,"Antimicrobial, Antibacterial",1
+"11","DRAMP04831","KWKFKKIGIGAVLKVLKVLTTGLPALKLTLK",31,"Antimicrobial, Antibacterial",1
+"215","DRAMP06990","AKRRSRMKR",9,"Antimicrobial, Antibacterial",1
+"286","DRAMP07292","WYYVRYRWW",9,"Antimicrobial, Antibacterial",1
+"692","DRAMP00856","GLPVCGETCVGGTCNTPGCTCSWPVCTRN",29,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal, Insecticidal",1
+"906","DRAMP04544","IDWLKLGKMVMDVL",14,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Cytotoxic",1
+"740","DRAMP02231","FLPFIARLAAKVFPSIICSVTKKC",24,"Antimicrobial, Antibacterial, Anti-Gram+",1
+"996","DRAMP01936","GLWNTKLEAGLLFAMGKLDLKRCLKAGGC",29,"Antimicrobial, Antibacterial, Anti-Gram-",1
+"1068","DRAMP03082","GFGCPLDQMQCHRHCQTITGRSGGYCSGPLKLTCTCYR",38,"Antimicrobial, Antibacterial",1
+"968","DRAMP18317","MGAVIKVGAKVIGWGAASGAGLYGLEKILKK",31,"Antimicrobial, Antibacterial, Anti-Gram+",1
+"728","DRAMP01533","CVISAGWNHKIRCKLTGNC",19,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"164","DRAMP06687","RLARIVVIRCAR",12,"Antimicrobial, Antibacterial",1
+"1269","DRAMP21094","RFRRLRWRTRWRLRRI",16,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"586","DRAMP08817","WRWRARWRWRLRWRF",15,"Antimicrobial, Antibacterial",1
+"1312","DRAMP21351","IHHIHHI",7,"Antimicrobial, Antibacterial, Anti-Gram-",1
+"91","DRAMP17745","GILLVDSQQALECCALSSQWGSGNNGIHHQA",31,"Antimicrobial, Antibacterial",1
+"734","DRAMP18391","ARTKQTARKSTGGKAPRKQLAT",22,"Antimicrobial, Antibacterial",1
+"1382","CAMPSQ2990","QAFKTFTPDWNKIRNDAKRMQDNLEQMKKKFNLNL",35,NA,1
+"534","DRAMP08444","KIWVIWRR",8,"Antimicrobial, Antibacterial",1
+"431","DRAMP07922","RRWRIVVIYVRR",12,"Antimicrobial, Antibacterial",1
+"250","DRAMP07155","IRKWWVRNV",9,"Antimicrobial, Antibacterial",1
+"132","DRAMP06546","RQARIVVIRVAR",12,"Antimicrobial, Antibacterial",1
+"140","DRAMP06577","RLAGIVVIRVAR",12,"Antimicrobial, Antibacterial",1
+"307","DRAMP07371","AIWGRIRKR",9,"Antimicrobial, Antibacterial",1
+"373","DRAMP07619","KRPWYNRKI",9,"Antimicrobial, Antibacterial",1
+"843","DRAMP03735","GKVWDWIKSTAKKLWNSEPVKELKNTALNAAKNLVAEKIGATPS",44,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"1243","DRAMP20973","VRFKLLSHSLLVTLASHL",18,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"884","DRAMP04124","SGKLYYRRKK",10,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"862","DRAMP03984","KWKLFKKIPLAKKF",14,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antitumor",1
+"527","DRAMP08398","RRAAVVLIVIAR",12,"Antimicrobial, Antibacterial",1
+"1206","DRAMP18713","GFGPAFHSVSNFAKKHKTA",19,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"185","DRAMP06808","RSAQKRGYI",9,"Antimicrobial, Antibacterial",1
+"259","DRAMP07202","EYWNWKRKV",9,"Antimicrobial, Antibacterial",1
+"15","DRAMP04845","SIGSAFKKALPVAKKIGKAALPIAKAALP",29,"Antimicrobial, Antibacterial",1
+"1375","CAMPSQ3184","GLWSTIKNVGKEAAIAAGKAALGALGEQ",28,NA,1
+"720","DRAMP01475","GLFPKFNKKKVKTGIFDIIKTVGKEAGMDVLRTGIDVIGCKIKGEC",46,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"1103","DRAMP03498","RWKVFKKIEKMGRNIRDGVIKAAPAIEVLGQAK",33,"Antimicrobial, Antibacterial, Antifungal",1
+"647","DRAMP27894","ESLSGVCEISGRLY",14,"Antimicrobial, Antibacterial",1
+"1255","DRAMP21040","WGRRGWGAGRRYVRW",15,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"641","DRAMP27875","TGRCATRESLSGVCEISGRLYRLCCR",26,"Antimicrobial, Antibacterial",1
+"592","DRAMP08838","IVRKFLFRHKVF",12,"Antimicrobial, Antibacterial",1
+"22","DRAMP18752","RCLCGRGFC",9,"Antimicrobial, Antibacterial, Antiviral",1
+"1348","AP00248","GLFGVLGSIAKHVLPHVVPVIAEK",24,NA,1
+"687","DRAMP00201","SCNCVCGVCCSCSP",14,"Antimicrobial, Antibacterial, Anti-Gram+",1
+"342","DRAMP07505","HRNHWMNKW",9,"Antimicrobial, Antibacterial",1
+"969","DRAMP01445","GLLSKVLGVGKKVLCGVSGLC",21,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"1084","DRAMP03314","VDKPDYRPRPWPRNMI",16,"Antimicrobial, Antibacterial",1
+"667","DRAMP28413","MLIFVHIIAPVISGCAIA",18,"Antimicrobial, Antibacterial",1
+"564","DRAMP08678","GICACRRRFCPNSERFSGYCRVNGARYVRCCSRR",34,"Antimicrobial, Antibacterial, Antifungal",1
+"40","DRAMP15486","RCICTRRFC",9,"Antimicrobial, Antibacterial, Antiviral",1
+"251","DRAMP07162","QIKKQFVKQ",9,"Antimicrobial, Antibacterial",1
+"635","DRAMP27842","GRFKRFRKKFKKLFKKLS",18,"Antimicrobial, Antibacterial",1
+"234","DRAMP07083","PRRPWMRHR",9,"Antimicrobial, Antibacterial",1
+"332","DRAMP07474","LKWMWNVKR",9,"Antimicrobial, Antibacterial",1
+"1361","AP02656","GFGCPFNQGACHRHCRSIGRRGGYCAGLFKQTCTCYSR",38,NA,1
+"727","DRAMP01526","SIRDKIKTIAIDLAKSAGTGVLKTLICKLNKSC",33,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"686","DRAMP00107","TNYGNGVGVPDAIMAGIIKLIFIFNIRQGYNFGKKAT",37,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"1316","DRAMP21385","IRRRIRLIVRRQI",13,"Antimicrobial, Antibacterial, Anti-Gram-",1
+"590","DRAMP08828","FLHKHVLRHRIVF",13,"Antimicrobial, Antibacterial",1
+"730","DRAMP01546","SLWETIKNAGKGFIQNLDKIR",21,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"1030","DRAMP02643","RCLCRRGVCRCLCRRGVC",18,"Antimicrobial, Antibacterial, Antifungal, Anti-Gram+, Anti-Gram-",1
+"1130","DRAMP04018","ALYKKFKKKLLKSLKRLG",18,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"1273","DRAMP21146","KRIVQRIKDWLR",12,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"131","DRAMP06543","RMARIVVIRVAR",12,"Antimicrobial, Antibacterial",1
+"1304","DRAMP21276","LKKLLKLNKKLLKLAG",16,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"1049","DRAMP02803","GCASRCKAKCAGRRCKGWASASFRGRCYCKCFRC",34,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"60","DRAMP14661","GGGGSGGGGSGGGGSGGGGSGGGGS",25,"Antimicrobial, Antifungal, Antibacterial",1
+"36","DRAMP15476","RCICGRRFC",9,"Antimicrobial, Antibacterial, Antiviral",1
+"787","DRAMP02277","AALRGCWTKSIPPKPCSGKR",20,"Antimicrobial, Antibacterial, Anti-Gram+, Antifungal",1
+"59","DRAMP14654","ASASA",5,"Antimicrobial, Antifungal, Antibacterial",1
+"788","DRAMP02279","SALVGCWTKSYPPKPCFGR",19,"Antimicrobial, Antibacterial, Anti-Gram+",1
+"883","DRAMP04122","KWKSFIKKLTSKFLHSAKKN",20,"Antimicrobial, Antibacterial, Anti-Gram-",1
+"1182","DRAMP18513","KKLALALAKKWLPLAKKLALALAKK",25,"Antimicrobial, Antibacterial, Anti-Gram-, Antiplasmodial",1
+"1011","DRAMP02327","FFHHIFRGIVHVGRTIHKLVTGG",23,"Antimicrobial, Antibacterial",1
+"1383","AP01295","GFMDTAKNVAKNVAVTLIDNLKCKITKAC",29,NA,1
+"1100","DRAMP03485","WNPFKELERAGQRVRDAVISAAAVATVGQAAAIARGG",37,"Antimicrobial, Antibacterial",1
+"1333","AP00664","FLPAIAGILSQLF",13,NA,1
+"604","DRAMP27665","RAYMEALRQAERLGNRTARR",20,"Antimicrobial, Antibacterial",1
+"689","DRAMP00336","IPCGESCVWIPCITAIAGCSCKNKVCYT",28,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"110","DRAMP18023","DGPKKKKKKSPSKSSK",16,"Antimicrobial, Antibacterial",1
+"743","DRAMP01737","FFPIVGKLLFGLL",13,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"199","DRAMP06901","GKNVMMGRI",9,"Antimicrobial, Antibacterial",1
+"1252","DRAMP21021","AIGSILGRLAKGLPTLKSWIKNR",23,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"1004","DRAMP02089","FLPMLAGLAASMVPKLVCLITKKC",24,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"791","DRAMP02296","FLPLLAGLAANFLPTIICKISYKC",24,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"868","DRAMP04025","VRLRIRVAVRRA",12,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"1003","DRAMP02029","FLPLLLAGLPKLLCFLFKKC",20,"Antimicrobial, Antibacterial",1
+"633","DRAMP27839","FKRIVQRIKDFLRNLVPRTE",20,"Antimicrobial, Antibacterial",1
+"844","DRAMP02828","GLFRRLRDSIRRGQQKILEKARRIGERIKDIFRG",34,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"93","DRAMP17832","MEQYGWTLTEVRKQPYVKLLEILNEENKEETEEKTK",36,"Antimicrobial, Antibacterial",1
+"865","DRAMP04017","LLGDFFRKVKEKIGKEFKRIVQR",23,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"38","DRAMP15481","RCLCGRRVC",9,"Antimicrobial, Antibacterial, Antiviral",1
+"958","DRAMP01145","GIIDIAKKLVGGIRNVLGI",19,"Antimicrobial, Antibacterial",1
+"871","DRAMP04051","RICRIVVIRCIR",12,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"327","DRAMP07458","RRAAPTGRG",9,"Antimicrobial, Antibacterial",1
+"1155","DRAMP04354","GLFRALLRLLRSLWRLLLRA",20,"Antimicrobial, Antibacterial",1
+"1380","AP02367","INLKAIAALARNY",13,NA,1
+"103","DRAMP17979","QVPIRPSQPRPQP",13,"Antimicrobial, Antibacterial",1
+"706","DRAMP01250","GLFDVVKGVLKGVGKNVAGSLLEQLKCKLSGGC",33,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"147","DRAMP06602","RLARPVVIRVAR",12,"Antimicrobial, Antibacterial",1
+"971","DRAMP01512","QVFTLIKGATQLIRKTLGEQ",20,"Antimicrobial, Antibacterial, Antifungal",1
+"891","DRAMP04165","RIKRFWPVVIRTVVAGYNL",19,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"1218","DRAMP20818","RRLIWLILRLLR",12,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"271","DRAMP07241","AWRNSFRRG",9,"Antimicrobial, Antibacterial",1
+"786","DRAMP02276","AALKGCWTKSIPPKPCSGKR",20,"Antimicrobial, Antibacterial, Anti-Gram+, Antifungal",1
+"901","DRAMP04374","INWKKLGKKILGAL",14,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"367","DRAMP07601","KKVWHWFTG",9,"Antimicrobial, Antibacterial",1
+"1048","DRAMP02794","MEKIANAVKSAIEAGQNQDWTKLGTSILDIVSNGVTELSKIFGF",44,"Antimicrobial, Antibacterial",1
+"24","DRAMP18741","RCICRRGIC",9,"Antimicrobial, Antibacterial, Antiviral",1
+"1337","AP01325","QPFIPRPIDTCRLRNGICFPGICRRPYYWIGTCNNGIGSCCARGWRS",47,NA,1
+"1309","DRAMP21326","WRLRWRLRWRLR",12,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"714","DRAMP01428","GIFLKVLGVGKKVLCGVSGLC",21,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"1190","DRAMP18601","VNWKKILAKIIKVAK",15,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"120","DRAMP06459","IVVRRRRAALVI",12,"Antimicrobial, Antibacterial",1
+"1144","DRAMP04247","KEEQIGKSSTRGRKSSRRKK",20,"Antimicrobial, Antibacterial",1
+"597","DRAMP08857","LRLFLRF",7,"Antimicrobial, Antibacterial",1
+"207","DRAMP06936","EGNIRKRVY",9,"Antimicrobial, Antibacterial",1
+"1185","DRAMP18567","VNWKKILGKSIKVSK",15,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Anitifungal",1
+"1076","DRAMP03189","VARLGGILRKAGEKIGGGLKKIGQKIKDFFGKLAPRTES",39,"Antimicrobial, Antibacterial",1
+"705","DRAMP01232","GFMDTAKNVAKNVAATLLDKLKCKITGGC",29,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"227","DRAMP07036","HHRPPFRFQ",9,"Antimicrobial, Antibacterial",1
+"849","DRAMP03883","TKCFQWQWNMRKVRG",15,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"374","DRAMP07624","RRGIPIKSR",9,"Antimicrobial, Antibacterial",1
+"691","DRAMP00795","GIPCGESCVFIPCITAAIGCSCKSKVCYRN",30,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Anti-cancer",1
+"1258","DRAMP21045","ILPWKWKWWKWRR",13,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"889","DRAMP04163","RIKRFWPVVIRTVVAGYNLYR",21,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"801","DRAMP02391","GWFKKAWRKVKHAGRRVLDTAKGVGRHYLNNWLNRYRG",38,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"382","DRAMP07670","IKRSHIITN",9,"Antimicrobial, Antibacterial",1
+"858","DRAMP03967","KWKLFKKIPKFLHLAKKF",18,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antitumor",1
+"427","DRAMP07905","RRWRIVVICVRR",12,"Antimicrobial, Antibacterial",1
+"1195","DRAMP18632","LSIRRLLAAGVLKQTKGVGA",20,"Antimicrobial, Antibacterial, Anti-Gram-",1
+"417","DRAMP07871","RRWRIVGIRVRR",12,"Antimicrobial, Antibacterial",1
+"1138","DRAMP04156","PVVIRTVVAGYNLYRAIKKK",20,"Antimicrobial, Antibacterial, Antifungal",1
+"643","DRAMP27878","ATCYCRTGRCATRESLSGVCEISGR",25,"Antimicrobial, Antibacterial",1
+"894","DRAMP04179","LKWLLKWLL",9,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"355","DRAMP07543","IVGKKKMRM",9,"Antimicrobial, Antibacterial",1
+"904","DRAMP04385","INWKKIASIGKEVLKA",16,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"640","DRAMP27873","ATCYCRTGRCATRESLSGVCEISGRLYR",28,"Antimicrobial, Antibacterial",1
+"1328","DRAMP18266","TYYGNGLYCNKEKCWVDWNQAKGEIGKIIVNGWVNH",36,"Antimicrobial, Antibacterial, Anti-Gram+",1
+"1193","DRAMP18615","VRRFPFFFPFLRR",13,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Anitifungal",1
+"1151","DRAMP04345","IGKKWKRIVKRIKKFLRKL",19,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"822","DRAMP03041","FDIMGLIKKVAGAL",14,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"1044","DRAMP02750","FTCDLLSGAGVDHSACAAHCILRGKTGGRCNSDRVCVCRA",40,"Antimicrobial, Antibacterial",1
+"1310","DRAMP21330","WKVKWKVKWKVK",12,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"1359","AP02314","ITIPPIVKDTLKKFFKGGIAGVMGQ",25,NA,1
+"621","DRAMP27767","ALWMTLLKKVLKAAAKALNAVLVGANA",27,"Antimicrobial, Antibacterial",1
+"1077","DRAMP18221","TVYTQA",6,"Antimicrobial, Antibacterial, Anti-Gram+, Antifungal",1
+"421","DRAMP07879","RRWRIVQIRVRR",12,"Antimicrobial, Antibacterial",1
+"619","DRAMP27754","YQRVEQYVQRYHDDLRNYSR",20,"Antimicrobial, Antibacterial",1
+"471","DRAMP08135","RWWKIWVIEWWR",12,"Antimicrobial, Antibacterial",1
+"130","DRAMP06540","RHARIVVIRVAR",12,"Antimicrobial, Antibacterial",1
+"492","DRAMP08225","WRAAVVLIVIRR",12,"Antimicrobial, Antibacterial",1
+"1253","DRAMP21025","FFSLIPSLVKKLIKAFK",17,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"584","DRAMP08810","VGKCVKLLY",9,"Antimicrobial, Antibacterial",1
+"1313","DRAMP21355","KKKKKAAFAKAWAAFAA",17,"Antimicrobial, Antibacterial, Anti-Gram-",1
+"233","DRAMP07074","IIAGTGLKR",9,"Antimicrobial, Antibacterial",1
+"1157","DRAMP04356","KWKLFKKIEKVGQRVDAVISAGPAVATVAQAATALAK",37,"Antimicrobial, Antibacterial",1
+"1012","DRAMP02329","IFHHIFKGIVHVGKTIHRLVTG",22,"Antimicrobial, Antibacterial",1
+"660","DRAMP27968","RGRKRRRGRKRRKK",14,"Antimicrobial, Antibacterial",1
+"454","DRAMP08048","RWWPIWVIRWWR",12,"Antimicrobial, Antibacterial",1
+"345","DRAMP07509","VAKTPTRNW",9,"Antimicrobial, Antibacterial",1
+"697","DRAMP01164","GIGALSAKGALKGLAKGLAEHFAN",24,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"1289","DRAMP21211","HLLKRVQRELIRWLDWLK",18,"Antimicrobial, Antibacterial, Anti-Gram-",1
+"612","DRAMP27705","RQYKEAYEEIYRYGNRMGRR",20,"Antimicrobial, Antibacterial",1
+"312","DRAMP07385","IVATVWRKN",9,"Antimicrobial, Antibacterial",1
+"466","DRAMP08112","RWWKIWYIRWWR",12,"Antimicrobial, Antibacterial",1
+"1257","DRAMP21044","ILKWKWKWWPWRR",13,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"1208","DRAMP18722","AKKFGKAFVGEIM",13,"Antimicrobial, Antibacterial, Anti-Gram-",1
+"467","DRAMP08122","RWWKIWVMRWWR",12,"Antimicrobial, Antibacterial",1
+"1297","DRAMP21244","FLSLIPKLVKKIIKAFK",17,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"548","DRAMP08503","RIWNIWRR",8,"Antimicrobial, Antibacterial",1
+"887","DRAMP04161","RIKRFWPVVIRTVVAGYNLYRAI",23,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"1354","CAMPSQ2602","FGCGQGMIFMCQRRCMRLYPGSTGFCRGFRCMCDTHIPLRPPFMVG",46,NA,1
+"978","DRAMP01676","ALWKDILKNAGKAALNEINQIVQ",23,"Antimicrobial, Antibacterial, Anti-Gram+",1
+"951","DRAMP01041","KRDPQQREYEDCRRRCEQQEPRQQHQCQLRCREQQ",35,"Antimicrobial, Antibacterial, Anti-Gram+, Antifungal",1
+"1280","DRAMP21126","RFRRLRKKIRKRLKKI",16,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"488","DRAMP08204","RWWKIWVIRWWT",12,"Antimicrobial, Antibacterial",1
+"1069","DRAMP18225","NKGCAICSIGAACLVDGPIPDFEIAGATGLFGLWG",35,"Antimicrobial, Antibacterial",1
+"675","DRAMP28477","GRHGSGLGHSSSHGQHGSGSGRSSSGGPY",29,"Antimicrobial, Antibacterial",1
+"489","DRAMP08208","ARAAVVLIVIRR",12,"Antimicrobial, Antibacterial",1
+"886","DRAMP04136","LRRLWLRANRL",11,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"1303","DRAMP21270","LKKLLKLLKKALKLAG",16,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"931","DRAMP00157","RNKLAYNMGHYAGKATIFGLAAWALLA",27,"Antimicrobial, Antibacterial, Anti-Gram+",1
+"1329","AP00480","VGIGTPIFSYGGGAGHVPEYF",21,NA,1
+"902","DRAMP04376","INWLKLGKKIISAL",14,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"343","DRAMP07506","NKRRVLIFI",9,"Antimicrobial, Antibacterial",1
+"238","DRAMP07105","RSIVRWFGR",9,"Antimicrobial, Antibacterial",1
+"119","DRAMP06457","VIVRLAARRVRI",12,"Antimicrobial, Antibacterial",1
+"124","DRAMP06498","IVVIRVA",7,"Antimicrobial, Antibacterial",1
+"722","DRAMP01479","GLFSKLNKKKIKSGLIKIIKTAGKEAGLEALRTGIDVIGCKIKGEC",46,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"381","DRAMP07669","TYWRRRPAV",9,"Antimicrobial, Antibacterial",1
+"391","DRAMP07731","YWVLRNMKN",9,"Antimicrobial, Antibacterial",1
+"1367","CAMPSQ8193","PRRRTPSPRRRRSQSPRRRRS",21,NA,1
+"1263","DRAMP21066","KWCFRVCYRGICYRRCA",17,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"1186","DRAMP18569","VNSKKISGKSIKVSK",15,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"543","DRAMP08478","RIGVIWRR",8,"Antimicrobial, Antibacterial",1
+"462","DRAMP08089","RWWKIRVIRWWR",12,"Antimicrobial, Antibacterial",1
+"107","DRAMP17997","SRPSPQVPIRPSQPRPQPFKPRPQQVPPRTPHPRL",35,"Antimicrobial, Antibacterial",1
+"1156","DRAMP04355","GLRRALLRLLRSLRRLLLRA",20,"Antimicrobial, Antibacterial",1
+"219","DRAMP07008","KQMGRRISG",9,"Antimicrobial, Antibacterial",1
+"989","DRAMP01804","ILPILAPLIGGLL",13,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"659","DRAMP27966","RGRKGGRRRGRKGGRRKK",18,"Antimicrobial, Antibacterial",1
+"98","DRAMP17965","NRPTYVPPPRPPHPRL",16,"Antimicrobial, Antibacterial",1
+"1104","DRAMP03504","RWKVFKKIEKVGRNIRDGVIKAGPAIAVVGQAKAL",35,"Antimicrobial, Antibacterial",1
+"1264","DRAMP21076","KWCARVCARGACYRRCR",17,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"1099","DRAMP03448","TDQDTAKCVQKKNVCYYFECPWLSISVSTCYKGKAKCCQKRY",42,"Antimicrobial, Antibacterial",1
+"702","DRAMP01222","GFMDTAKNVAKNVAVTLIDKLRCKVTGGC",29,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"187","DRAMP06824","SWMINRYRR",9,"Antimicrobial, Antibacterial",1
+"32","DRAMP15463","RCICTLGVC",9,"Antimicrobial, Antibacterial, Antiviral",1
+"1377","CAMPSQ509","GVCRCLCRRGVCRCLCRR",18,NA,1
+"1173","DRAMP18480","KKLALALKKLALLWKKLALALKKA",24,"Antimicrobial, Antibacterial, Anti-Gram-, Antiplasmodial",1
+"600","DRAMP27658","RQYMRQIEQALRYGYRISRR",20,"Antimicrobial, Antibacterial",1
+"1153","DRAMP04348","RAGLQWPIGRLLRRLLRRLLR",21,"Antimicrobial, Antibacterial",1
+"1213","DRAMP20790","KWKVFKKIEKMGRNIRNGIVKAGPAIAVLGEAKALG",36,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"1256","DRAMP21041","WGRRGWGKGRRYVRW",15,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"1265","DRAMP21078","AWCARVCYRGICYRRCR",17,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"63","DRAMP14670","HSSHL",5,"Antimicrobial, Antifungal, Antibacterial",1
+"23","DRAMP18751","RCLCGRGVC",9,"Antimicrobial, Antibacterial, Antiviral",1
+"1250","DRAMP21008","GCRRWCYKQRCVTYCRGR",18,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antitumor",1
+"652","DRAMP27912","TCHCRRSCYSTEYSYGTCTVMGINHRF",27,"Antimicrobial, Antibacterial",1
+"190","DRAMP06834","RVKKLRIQP",9,"Antimicrobial, Antibacterial",1
+"304","DRAMP07361","ALGRIRGKR",9,"Antimicrobial, Antibacterial",1
+"933","DRAMP00179","MNFLKNGIAKWMTGAELQAYKKKYGCLPWEKISC",34,"Antimicrobial, Antibacterial",1
+"184","DRAMP06800","MQWGATKIR",9,"Antimicrobial, Antibacterial",1
+"472","DRAMP08136","RWWKIWVIFWWR",12,"Antimicrobial, Antibacterial",1
+"386","DRAMP07683","WGSWRMRKH",9,"Antimicrobial, Antibacterial",1
+"1007","DRAMP18354","ITSFSLCTPGCAKTGSFNSYCC",22,"Antimicrobial, Antibacterial",1
+"1322","DRAMP21419","WWKAAAKAAAKWW",13,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"160","DRAMP06665","RLARIVVWRVAR",12,"Antimicrobial, Antibacterial",1
+"1059","DRAMP02976","NIGNSVSCLRNKGVCMPGKCAPKMKQIGTCGMPQVKCCKRK",41,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"65","DRAMP14672","LVRLA",5,"Antimicrobial, Antifungal, Antibacterial",1
+"1226","DRAMP20850","VWRKWRRFWKR",11,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"671","DRAMP28455","HAHYGYGQSTQRGSRTTGRRGSGH",24,"Antimicrobial, Antibacterial",1
+"1343","AP01696","SPAGCRFCCGCCPNMRGCGVCCRF",24,NA,1
+"1369","AP02293","GFMSKVANFAKKFAKGGVNAIMNQK",25,NA,1
+"401","DRAMP07778","RIWRIVVIRVRR",12,"Antimicrobial, Antibacterial",1
+"14","DRAMP04838","ALWKTMLKKAAHVGKHVGKAALTHYL",26,"Antimicrobial, Antibacterial",1
+"257","DRAMP07186","KKMSWGHTR",9,"Antimicrobial, Antibacterial",1
+"764","DRAMP02037","GAFGNFLKGVAKKAGLKILSIAQCKLFGTC",30,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"106","DRAMP17992","FKPRPQQVPPRPPHPRL",17,"Antimicrobial, Antibacterial",1
+"194","DRAMP06865","VYSRYMKGG",9,"Antimicrobial, Antibacterial",1
+"1081","DRAMP03223","GFGSLFKFLAKKVAKTVAKQAAKQGAKYIANKQME",35,"Antimicrobial, Antibacterial, Insecticidal",1
+"580","DRAMP08767","RWRRLLKKLHHLLH",14,"Antimicrobial, Antibacterial",1
+"220","DRAMP07010","RINPKIYRS",9,"Antimicrobial, Antibacterial",1
+"965","DRAMP01198","EMLKKKKEVKMERKT",15,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"293","DRAMP07322","YRQIMRWVQ",9,"Antimicrobial, Antibacterial",1
+"733","DRAMP01574","GLWQKIKSAAGDLASGIVEGIKS",23,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antiviral",1
+"231","DRAMP07061","RQLKPQNWS",9,"Antimicrobial, Antibacterial",1
+"485","DRAMP08194","RWWKIWVIRWWG",12,"Antimicrobial, Antibacterial",1
+"1086","DRAMP03368","KKINNPVSCLRKGGRCWNRCIGNTRQIGSCGVPFLKCCKRK",41,"Antimicrobial, Antibacterial, Anti-Gram-",1
+"1249","DRAMP21005","GCRALCYKQRCVTYCRGA",18,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal, Antitumor",1
+"681","DRAMP28507","GRHGSGSGQSSSYSPYGSGSGWSSSR",26,"Antimicrobial, Antibacterial",1
+"1164","DRAMP18435","VWTVWGTIAG",10,"Antimicrobial, Antibacterial",1
+"930","DRAMP00151","ESVFSKIGNAVGPAAYWILKGLGNMSDVNQADRINRKKH",39,"Antimicrobial, Antibacterial",1
+"73","DRAMP17537","QKAIRVRLSA",10,"Antimicrobial, Antibacterial",1
+"853","DRAMP03920","KWKLFKKIEKVGQGIGAVLKVLTTGL",26,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"1327","DRAMP21635","YYNPLPHDCGRDNNTDICSR",20,"Antimicrobial, Antibacterial, Anti-Gram-",1
+"290","DRAMP07302","IRRAKLRGR",9,"Antimicrobial, Antibacterial",1
+"1147","DRAMP04319","ALRLAIRRR",9,"Antimicrobial, Antibacterial",1
+"794","DRAMP02348","WLRRIGKGVKIIGGAALDHL",20,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"1149","DRAMP04343","IGKLFKRIVKRILKFLRKL",19,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"1295","DRAMP21241","GFIFHIIKGLFHAGKMIHGLV",21,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"413","DRAMP07851","RRWRIFVIRVRR",12,"Antimicrobial, Antibacterial",1
+"975","DRAMP01609","GLFDIVKKVVGALGSL",16,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-cancer",1
+"753","DRAMP01849","DSMGAVKLAKLLIDKMKCEVTKAC",24,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"61","DRAMP14664","TFFRLFNR",8,"Antimicrobial, Antifungal, Antibacterial",1
+"1141","DRAMP04221","RGRKSSRRK",9,"Antimicrobial, Antibacterial",1
+"1021","DRAMP02570","YRGGYTGPIPRPPPIGRPPLRLVVCACYRLSVSDARNCCIKFGSCCHLVK",50,"Antimicrobial, Antibacterial, Antifungal, Anti-Gram+, Anti-Gram-",1
+"8","DRAMP04785","RVIRVVQRACRAIRHIVRRIRQGLRRIL",28,"Antimicrobial, Antibacterial",1
+"156","DRAMP06655","RLARIVVKRVAR",12,"Antimicrobial, Antibacterial",1
+"882","DRAMP04120","KWKSFIKKLTSKFLHSADKF",20,"Antimicrobial, Antibacterial, Anti-Gram-",1
+"520","DRAMP08357","RRAAVVLVVIRR",12,"Antimicrobial, Antibacterial",1
+"1096","DRAMP03429","ELKHLGMTAETEWCRLFEGFCHDKNCPPPTSHVGSCHPEKRSCCKDRR",48,"Antimicrobial, Antibacterial",1
+"100","DRAMP17970","NKPRPQQVPPRPPHPRL",17,"Antimicrobial, Antibacterial",1
+"611","DRAMP27701","RYYMECYEQAVRYGRRWYRR",20,"Antimicrobial, Antibacterial",1
+"1306","DRAMP21287","FKRIVQRIKDFAR",13,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"601","DRAMP27662","RSIMELYKQASRSFNRGIRR",20,"Antimicrobial, Antibacterial",1
+"1235","DRAMP20905","FIHHIIGGLFSAGKAIHRLIR",21,"Antimicrobial, Antibacterial, Anti-Gram+, Antifungal",1
+"517","DRAMP08348","RRAAVVLKVIRR",12,"Antimicrobial, Antibacterial",1
+"888","DRAMP04162","RIKRFWPVVIRTVVAGYNLYRA",22,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"405","DRAMP07805","RRSRIVVIRVRR",12,"Antimicrobial, Antibacterial",1
+"799","DRAMP02374","GCRFCCNCCPNMSGCGVCCRF",21,"Antimicrobial, Antibacterial, Anti-Gram-, Antifungal",1
+"896","DRAMP04187","KWLKKLLKKLL",11,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"607","DRAMP27686","RQLMEQYEQAYRYAARGYRR",20,"Antimicrobial, Antibacterial",1
+"322","DRAMP07431","TNRHQQKRW",9,"Antimicrobial, Antibacterial",1
+"761","DRAMP02004","FLPLIASVAANLVPKIFCKITKKC",24,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"545","DRAMP08489","RITVIWRR",8,"Antimicrobial, Antibacterial",1
+"1159","DRAMP04503","GILTDTLKGAAKNVAGVLLDKLKCKITGGC",30,"Antimicrobial, Antibacterial, Antifungal, Antiviral",1
+"1087","DRAMP03373","NEPVSCIRNGGICQYRCIGLRHKIGTCGSPFKCCK",35,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"508","DRAMP08289","RRAAGVLIVIRR",12,"Antimicrobial, Antibacterial",1
+"523","DRAMP08375","RRAAVVLISIRR",12,"Antimicrobial, Antibacterial",1
+"747","DRAMP01788","NILNTIINLAKKIL",14,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"1032","DRAMP02662","RRTCRCRFGRCFRRESYSGSCNINGRISSLCCR",33,"Antimicrobial, Antibacterial, Antifungal, Anti-Gram+, Anti-Gram-",1
+"750","DRAMP01812","FLPVLAGVLSRA",12,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"339","DRAMP07498","KRWIVKWVK",9,"Antimicrobial, Antibacterial",1
+"1072","DRAMP03158","WLNALLHHGLNCAKGVLA",18,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"89","DRAMP17709","MMNGLKRLMKAKRYKKEVKEIITMQKKAINELETLNKNLKLINQNY",46,"Antimicrobial, Antibacterial",1
+"1331","AP00528","DDDDDD",6,NA,1
+"256","DRAMP07181","PRYQGWWRV",9,"Antimicrobial, Antibacterial",1
+"79","DRAMP17564","RRWRR",5,"Antimicrobial, Antibacterial, Antifungal",1
+"370","DRAMP07611","HMKRWHRWG",9,"Antimicrobial, Antibacterial",1
+"935","DRAMP00220","GATAIKQVKKLFKKWGW",17,"Antimicrobial, Antibacterial, Anti-Gram+",1
+"976","DRAMP01619","FDIVKKIAGHIVSSI",15,"Antimicrobial, Antibacterial, Anti-cancer",1
+"439","DRAMP07958","RRWRIVVIRVVR",12,"Antimicrobial, Antibacterial",1
+"1204","DRAMP18705","GFFDRIKALTKNVTLELLNTITCKLPVTPP",30,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"1378","AP02287","GLKEVAHSAKKFAKGFISGLTGS",23,NA,1
+"699","DRAMP01177","GVVDILKGAAKDIAGHLASKVMNKL",25,"Antimicrobial, Antibacterial, Anti-Gram-",1
+"755","DRAMP01898","FLSTLLNVASNVVPTLICKITKKC",24,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"1248","DRAMP20996","RLLKFIKKLL",10,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"453","DRAMP08047","RWWNIWVIRWWR",12,"Antimicrobial, Antibacterial",1
+"1023","DRAMP02606","RLGNFFRKAKEKIGRGLKKIGQKIKDFWGNLVPRTES",37,"Antimicrobial, Antibacterial",1
+"870","DRAMP04050","RRRLCPIVIRVCRR",14,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"1240","DRAMP20943","FVPWFSKFLWRIL",13,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"537","DRAMP08448","PIWVIWRR",8,"Antimicrobial, Antibacterial",1
+"1055","DRAMP02930","HSPGGA",6,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"1294","DRAMP21168","GILKSLLKKLKKIIAK",16,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"1058","DRAMP02955","LGAWLAGKVAGTVATYAWNRYV",22,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"560","DRAMP08571","RIWVIWRE",8,"Antimicrobial, Antibacterial",1
+"53","DRAMP14633","LSEMERRRLRKRA",13,"Antimicrobial, Antifungal, Antibacterial",1
+"351","DRAMP07532","RRNWIRGIK",9,"Antimicrobial, Antibacterial",1
+"823","DRAMP03056","SLLSLIRKLIT",11,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-, Antifungal",1
+"851","DRAMP03890","FKCARWQWRMKKLGA",15,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"875","DRAMP18358","ATPTITTSSATCGGIIVAASAAQCPTLACSSRCGKRKK",38,"Antimicrobial, Antibacterial, Anti-Gram+",1
+"67","DRAMP14678","NILFGIIGFVVAMTAAVIVTAISIAK",26,"Antimicrobial, Antifungal, Antibacterial",1
+"1097","DRAMP03433","FIPKSLRRFFCRVRGGRCAILNCLGKEEQIGRCSNRGQKCCRKKK",45,"Antimicrobial, Antibacterial",1
+"742","DRAMP01734","FFPIVGKLLFGLFGLL",16,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"924","DRAMP00113","TTHSGKYYGNGVYCTKNKCTVDWAKATTCIAGMSIGGFLGGAIPGKC",47,"Antimicrobial, Antibacterial",1
+"725","DRAMP01520","GLLNTFKDWAISIAKGAGKGVLTTLSCKLDKSC",33,"Antimicrobial, Antibacterial, Anti-Gram+, Anti-Gram-",1
+"636","DRAMP27846","FLPLLAGLAANFLPKIFCKITRK",23,"Antimicrobial, Antibacterial",1
+"792","NON","MALTEKQEALLKQSWEVL",18,"NonABP",0
+"1311","NON","MLKYLNQAE",9,"NonABP",0
+"1027","NON","MVYNITSSNQYQYFAAMWAEPTAML",25,"NonABP",0
+"10061","NON","MLNQLDNLTERVRGSNKLVDRWLH",24,"NonABP",0
+"6531","NON","SESEVPGMWFGPRL",14,"NonABP",0
+"798","NON","KCDPHEATCYDDGKTYHV",18,"NonABP",0
+"846","NON","MPTPKRQLGDRGEQVAAVY",19,"NonABP",0
+"1319","NON","MKIMVINGPNLNLLGIREKEIYGAKDFNQVIDYIKEEGKELGL",43,"NonABP",0
+"1175","NON","MAKVNIKPLEDKLLVQIVEAETTTASGLVIPD",32,"NonABP",0
+"2971","NON","MNALYNHAV",9,"NonABP",0
+"2271","NON","QLTFTSSWG",9,"NonABP",0
+"6971","NON","MATGAQSFYELYRRS",15,"NonABP",0
+"6011","NON","PKDSMLLLQVPVY",13,"NonABP",0
+"242","NON","MTIINSISS",9,"NonABP",0
+"1062","NON","MASKCPKCDKTVCFAEKVSSLGKDWH",26,"NonABP",0
+"977","NON","MANNNSSNELVVPGVQQALDQMK",23,"NonABP",0
+"885","NON","MVKKKEES",8,"NonABP",0
+"206","NON","GPIPWQRRI",9,"NonABP",0
+"267","NON","MMERAEDLR",9,"NonABP",0
+"501","NON","MNNLIMLVTNAV",12,"NonABP",0
+"1133","NON","MSRKCELTGVGVLYGNNVSHSQRKTRRRFE",30,"NonABP",0
+"137","NON","MKAIKAKSP",9,"NonABP",0
+"12951","NON","MKLTFFLGLLALISCFTPSESQRFSRRPYLPGQLPPPPLY",40,"NonABP",0
+"897","NON","MKNKSVEMLIEGAKEWGIFL",20,"NonABP",0
+"880","NON","MPRVKRGVTARARHKKVLKL",20,"NonABP",0
+"8081","NON","MLAILKYKAGNQTSVRRA",18,"NonABP",0
+"182","NON","MLALNNYLI",9,"NonABP",0
+"13221","NON","MNLNSIPAFDDNYIWVLNDEAGRCLIVDPGDAEPVLNAISANN",43,"NonABP",0
+"7051","NON","VPATIPLTITNDSGG",15,"NonABP",0
+"6751","NON","MGKTMFKKTLLFFTA",15,"NonABP",0
+"3511","NON","MSKGTPSRGKR",11,"NonABP",0
+"7","NON","MMNRV",5,"NonABP",0
+"291","NON","MLVPIPALN",9,"NonABP",0
+"988","NON","ADKERAQRATSNVFARLPQKLMQE",24,"NonABP",0
+"1102","NON","MKKTVVVFSGGQDSTTCLIQALEQYDEV",28,"NonABP",0
+"991","NON","MGQKVHPTGFRLGTTKTWDTRWFA",24,"NonABP",0
+"1187","NON","MAKKESFFKGVKSEMEKTSWPTKEELFKYTVIV",33,"NonABP",0
+"1137","NON","MKVNDRVTVKTDGGPRRPGVVLAVEQFSEG",30,"NonABP",0
+"1293","NON","MNTRASNFLAASFSTIMLVGAFSLPAFAQENQMTTQPARI",40,"NonABP",0
+"854","NON","MKSLNTLVILTSVISTSVFA",20,"NonABP",0
+"1170","NON","MSQTITLIKDKILSDNYFTLRNITYDLTRRNG",32,"NonABP",0
+"384","NON","MLILVNNPKAKY",12,"NonABP",0
+"330","NON","MTTWGLLFLL",10,"NonABP",0
+"1028","NON","MVKMIVGLGNPGSKYNDTKHNIGFM",25,"NonABP",0
+"1401","NON","MSWDVIKHP",9,"NonABP",0
+"1211","NON","MEEKDKEEKVTGENLEPEDKNLEQEDKEEVVGPQ",34,"NonABP",0
+"474","NON","MSRKAPCKYEVR",12,"NonABP",0
+"1088","NON","MSNQLSPKPPVNPIVMGKIGSAYGIRGW",28,"NonABP",0
+"1851","NON","MYENTNSEE",9,"NonABP",0
+"1117","NON","MTEPLILQPAKPADACVIWLHGLGADRYD",29,"NonABP",0
+"87","NON","MENAKQSF",8,"NonABP",0
+"9671","NON","MEDFVRQCFNPMIVELAEKAMKE",23,"NonABP",0
+"7611","NON","MNEIRVTQTLDTLGLRC",17,"NonABP",0
+"1233","NON","MRCPFCGYEDSKVVDTRPTNEGKTIKRRRECLKCQ",35,"NonABP",0
+"775","NON","MSKERTRCREKVLEFLF",17,"NonABP",0
+"369","NON","MTTGTFDMSDLK",12,"NonABP",0
+"11551","NON","MITKEEAQKIAKLARLKFEEDTIEKFFTQLS",31,"NonABP",0
+"237","NON","MSNELKQVE",9,"NonABP",0
+"1991","NON","MTESPQKRH",9,"NonABP",0
+"429","NON","GGSSGLIAFPRL",12,"NonABP",0
+"10441","NON","MASLNDSHFDLFDLPAQFALDASAL",25,"NonABP",0
+"593","NON","MGVQPPNF",8,"NonABP",0
+"7881","NON","MFEKLQDVLCYRFADVRL",18,"NonABP",0
+"790","NON","MKLNLYVLTPKRIIWDCE",18,"NonABP",0
+"10601","NON","MLTPYGRSTILKTTIFASAIAVTGLF",26,"NonABP",0
+"3821","NON","MDVILLERINKL",12,"NonABP",0
+"8441","NON","MPKMKSHRGAAKRFKLTGS",19,"NonABP",0
+"209","NON","MILGLGLDV",9,"NonABP",0
+"966","NON","MKIKGLMILASSLLILAFIHQSE",23,"NonABP",0
+"10521","NON","MGGVGKTKRMRRLKRKRRKMRQRSK",25,"NonABP",0
+"895","NON","MSETFTKGMARNIYFGGSVF",20,"NonABP",0
+"108","NON","MQLFHLCLI",9,"NonABP",0
+"344","NON","MSGLFVSFEGV",11,"NonABP",0
+"193","NON","MKARLLLLS",9,"NonABP",0
+"540","NON","MYKGLLTLLLLF",12,"NonABP",0
+"241","NON","QPEEPRCRE",9,"NonABP",0
+"1364","NON","MDQEKVLKEFEKAGALLRGHFILSSGLHSPVFLQKALVFMNPQRTGR",47,"NonABP",0
+"1237","NON","MSETDGEAEETGQTHECRRCGREQGLVGKYDIWLCR",36,"NonABP",0
+"12041","NON","MSSIETLVEEIGKLTLTEASELVKALEEKFGVSA",34,"NonABP",0
+"1029","NON","MTTKRIIACLDVKDGNVVKGVNFLN",25,"NonABP",0
+"1268","NON","MTMSRISHIELDDSNLPPPTPEIEQERKVAIYDLLEEN",38,"NonABP",0
+"18","NON","MDPNRY",6,"NonABP",0
+"614","NON","MSEEQTTQ",8,"NonABP",0
+"1641","NON","MSAVETCAD",9,"NonABP",0
+"613","NON","MSDTSIKQQSQLT",13,"NonABP",0
+"1022","NON","MIKAVIGLGNPGKQYEDTRHNVGFM",25,"NonABP",0
+"90","NON","MRHARGYR",8,"NonABP",0
+"258","NON","GPPLLPPLP",9,"NonABP",0
+"1132","NON","MIRLGGWCA",9,"NonABP",0
+"784","NON","MESKVVENRLKEAKLIAV",18,"NonABP",0
+"195","NON","MAKQIRKTN",9,"NonABP",0
+"1203","NON","MRHARGYRRLNRTHEHRKALFANMAGSLIEHEQI",34,"NonABP",0
+"122","NON","MRFVLPKGR",9,"NonABP",0
+"922","NON","MSSIDKRIKEIVAEQLGVDEA",21,"NonABP",0
+"6111","NON","NLLQFNKMIKIMT",13,"NonABP",0
+"6671","NON","MEFLLQLENILKKR",14,"NonABP",0
+"866","NON","MELQLAIDLLNKEDAAELAN",20,"NonABP",0
+"76","NON","MLLEETLK",8,"NonABP",0
+"890","NON","DCCRKPFRKHCWDCTAGTPY",20,"NonABP",0
+"632","NON","MSYDEGGE",8,"NonABP",0
+"383","NON","MTYFVLFL",8,"NonABP",0
+"7531","NON","MASNTLIESTSLRRSPA",17,"NonABP",0
+"825","NON","MFLLYEYDIFWTFLIISS",18,"NonABP",0
+"9961","NON","MLLDFLDQLFSRHSGNSRQQAKQR",24,"NonABP",0
+"1014","NON","MANIKSNEKRLRQNIKRNLNNKGQ",24,"NonABP",0
+"960","NON","MASTRTTIIKLIVPAGKATPTPP",23,"NonABP",0
+"1125","NON","GDIIDVDNDLFEHEQDGVAGTSVHGEYEAY",30,"NonABP",0
+"8911","NON","MTLTFPAPSKDKAELETGPA",20,"NonABP",0
+"5591","NON","MTLPPAIPPTPA",12,"NonABP",0
+"16","NON","MTRKQR",6,"NonABP",0
+"914","NON","EDHPVHNRGEYSVCDSVNVWV",21,"NonABP",0
+"923","NON","MEHNLSPLQQEVLDKYKQLSL",21,"NonABP",0
+"1078","NON","MSAYTVSRLALDAGVSVHIVRDYLLRG",27,"NonABP",0
+"1106","NON","VLSPADKSNVKAAWGKVGGHAGDYGAEAL",29,"NonABP",0
+"70","NON","MELNNLKP",8,"NonABP",0
+"6711","NON","MSKTVVRKNESLDD",14,"NonABP",0
+"1279","NON","MNPLRKKRLLIIAALLAGVGLAMTLALGALKENINLFYT",39,"NonABP",0
+"37","NON","MSRVCQVT",8,"NonABP",0
+"657","NON","MSFKGRSYRSLDPK",14,"NonABP",0
+"7251","NON","MLLSAVSFAKSKSKTI",16,"NonABP",0
+"864","NON","MSKKKLNQPKKRIKRQILDG",20,"NonABP",0
+"1124","NON","MSLSLLLRGAVRCNAANLVKSARITPLKSY",30,"NonABP",0
+"5201","NON","MATDSTQCVKKS",12,"NonABP",0
+"216","NON","MAALAALRL",9,"NonABP",0
+"1051","NON","MKQLLDFIPLILFFITYKLGGVREA",25,"NonABP",0
+"308","NON","MAHNHNHDH",9,"NonABP",0
+"356","NON","MERLIFVSFGL",11,"NonABP",0
+"1334","NON","MQDAITAILNRYDLTGRYLDKTAVGQLESFFSSGLDRIKIAEII",44,"NonABP",0
+"518","NON","MAKAQSKQATAT",12,"NonABP",0
+"380","NON","MNWTAATCWALL",12,"NonABP",0
+"9561","NON","MPSSKKKKEDVPIASMAGLVRYY",23,"NonABP",0
+"42","NON","MNQVV",5,"NonABP",0
+"700","NON","MPRSQRNDNFIDKTF",15,"NonABP",0
+"235","NON","MTVAEVLAD",9,"NonABP",0
+"1288","NON","MASLPDTNKLLRNFSRCRNWEERYLYMIELGAKLPPLTDE",40,"NonABP",0
+"10121","NON","MLNIKTKKKNKKRIYVFNKNPEFK",24,"NonABP",0
+"754","NON","MSEELAQKTEELSLDSK",17,"NonABP",0
+"223","NON","MRTYTPLIY",9,"NonABP",0
+"863","NON","MANLEKIVEDLSALTVLEAA",20,"NonABP",0
+"1272","NON","MDLNLRHAVIQNIANNTKEQLEDTIVDAIQRGEEKYLP",38,"NonABP",0
+"10501","NON","MIHYLHFIGEFCFSSAVKVVEWFSE",25,"NonABP",0
+"1321","NON","MQKARIKLASTNVRSLEEVANQIKQIAERTGVRMSGPIPLPTK",43,"NonABP",0
+"602","NON","MLESVKANFTESI",13,"NonABP",0
+"94","NON","MINNVVLVG",9,"NonABP",0
+"17","NON","MSGHNK",6,"NonABP",0
+"317","NON","MRFPTPLIE",9,"NonABP",0
+"1330","NON","METLSQDSLLECQICFNYYSPRRRPKLLDCKHTCCSVCLQQMRT",44,"NonABP",0
+"282","NON","MARMYARRR",9,"NonABP",0
+"6191","NON","MNLKPLADRVIVK",13,"NonABP",0
+"934","NON","MLTTMLLSCALLLAMPTMLGAQ",22,"NonABP",0
+"715","NON","MKWIIQEEKEEDHLQ",15,"NonABP",0
+"10811","NON","MVLQYPQNKILVLSDHPHNFSKTQFLQ",27,"NonABP",0
+"12431","NON","MAKDDVIEIEGTIKETLPNAMFKVELENGHEILAHVS",37,"NonABP",0
+"1131","NON","MGRKDSSNTKLPVDQYRKQIGKQDYKKTKP",30,"NonABP",0
+"10321","NON","ITAGFISSSANTVYVKKGDVMVFPR",25,"NonABP",0
+"571","NON","MFTTKKSLLLLF",12,"NonABP",0
+"3041","NON","MKEQKWVHE",9,"NonABP",0
+"152","NON","MRKITQAIS",9,"NonABP",0
+"459","NON","MLDQVCQLARNA",12,"NonABP",0
+"650","NON","MDPKKIARINELAK",14,"NonABP",0
+"5241","NON","MLNLKILALGIA",12,"NonABP",0
+"2831","NON","MVLAVDLLN",9,"NonABP",0
+"1095","NON","MMQIDWRLYAVLDTATLGSRDPLAMTAA",28,"NonABP",0
+"1342","NON","MLQNIRIVLVETSHTGNMGSVARAMKTMGLTNLWLVNPLVKPDSQ",45,"NonABP",0
+"9831","NON","MSDYTNIAHPYAKASFDFALGENK",24,"NonABP",0
+"11381","NON","MSLVIPEKFQHILRVLNTNIDGRRKIAFAI",30,"NonABP",0
+"11861","NON","MELLKEAIRKRGSVLSSGVLKVDQFLNHQVDTN",33,"NonABP",0
+"1066","NON","MHTAAQFSISTLNNLYEISSVEVGQH",26,"NonABP",0
+"876","NON","MKIFLDTADVEEIRQGVAMG",20,"NonABP",0
+"8011","NON","MQVILLETIKNLGDLGAV",18,"NonABP",0
+"11581","NON","MRRVILPLVMTVTLCLAQEASEACTKALTDC",31,"NonABP",0
+"10551","NON","MAKKAKGNRVQVILECTEHKESGMPG",26,"NonABP",0
+"899","NON","MYPEIMLVPMREELTRIGIE",20,"NonABP",0
+"4661","NON","MASIEKRIKEIV",12,"NonABP",0
+"569","NON","MTQDQLKQAVAQ",12,"NonABP",0
+"719","NON","MAAILELVEIERHFFE",16,"NonABP",0
+"261","NON","MEHRVIYVL",9,"NonABP",0
+"423","NON","MIEFVKGTIDYV",12,"NonABP",0
+"1067","NON","MAAARASLGRILPESSILFLCDLQEK",26,"NonABP",0
+"1353","NON","MSRVGKMPVTLPQGVDVAIKDDQINVKGALGALALTQNALVTIKND",46,"NonABP",0
+"5441","NON","MTWIGLLIVGLT",12,"NonABP",0
+"3601","NON","GHAKGDKKVSKK",12,"NonABP",0
+"6121","NON","MEGWDPNTKSTLT",13,"NonABP",0
+"13311","NON","NNCPQDWLPMNGLCYKIFDELKAWKDAEMFCRKYKPGCHLASFH",44,"NonABP",0
+"622","NON","MNKARIKLTGTDP",13,"NonABP",0
+"1120","NON","MVHMSAEEKGIVTSMWGKVNVDDIGAEAL",29,"NonABP",0
+"1374","NON","MMQTVAVIDYGMGNLHSVAKALEHVGAGRVLVSSDAAVIREADRVVFP",48,"NonABP",0
+"126","NON","MMMLFFTVA",9,"NonABP",0
+"96","NON","MSRAALPSL",9,"NonABP",0
+"531","NON","MNVEQIVEAIEK",12,"NonABP",0
+"11411","NON","MALLEFFRPQKKATANIAKERLQIIVAERR",30,"NonABP",0
+"254","NON","MSGISSKGL",9,"NonABP",0
+"1299","NON","MRIERVDDTTVKLFITYSDIEARGFSREDLWTNRKRGEEF",40,"NonABP",0
+"1244","NON","MTGCTTPGDALLSFEPLEEGVLIKRYKRFLADVELSS",37,"NonABP",0
+"372","NON","MPKRVLQGVVIS",12,"NonABP",0
+"3231","NON","MSPEEYVRV",9,"NonABP",0
+"8371","NON","MGITHELDIFVTNEDLALK",19,"NonABP",0
+"3521","NON","MDYSKLPSQEI",11,"NonABP",0
+"952","NON","MKAYTAAGLDEVGRGALFGPVFA",23,"NonABP",0
+"11501","NON","MKLNNYIDATLLKPDATLIEINKFVDLCIIK",31,"NonABP",0
+"2431","NON","MSALVYFSS",9,"NonABP",0
+"68","NON","MTNESEVG",8,"NonABP",0
+"483","NON","MSLTIPANLVLN",12,"NonABP",0
+"3071","NON","MVRDSIVVK",9,"NonABP",0
+"337","NON","MARLTYLGHA",10,"NonABP",0
+"12941","NON","MAESHGGAKGPAAGAHTGAEGGHGGGFPPFESSTYASQLV",40,"NonABP",0
+"947","NON","MSRIGKKPVPLPKGVTASISGQ",22,"NonABP",0
+"696","NON","MSQVSAEDKLDYVKS",15,"NonABP",0
+"315","NON","MASLLYFIL",9,"NonABP",0
+"4711","NON","MTKSELIERLCA",12,"NonABP",0
+"281","NON","MDGIKYAVF",9,"NonABP",0
+"1037","NON","MGEKQILDADDIRRAITRIAHEIAE",25,"NonABP",0
+"11561","NON","MLNIANTIRSTLLRSKTRNVRTLAATVNPAE",31,"NonABP",0
+"995","NON","MSGLRPALSTFLFLLLITGGVYPL",24,"NonABP",0
+"1162","NON","MPDFKIVISDPQSVEPKRIKVKVKANDQIKSI",32,"NonABP",0
+"6341","NON","AYGEAANVFGAPK",13,"NonABP",0
+"117","NON","MVDNKQDVV",9,"NonABP",0
+"80","NON","MSDAGRKG",8,"NonABP",0
+"7301","NON","MLTPKKVKFRKRQKGR",16,"NonABP",0
+"9691","NON","MIRNISKSIVNLNSQKIATNTSF",23,"NonABP",0
+"8941","NON","MDFHGTTVLCVKRNDSVIIA",20,"NonABP",0
+"4191","NON","MQSPVLLQLLLL",12,"NonABP",0
+"911","NON","MKILCLLFAVLLFLFQAAPGS",21,"NonABP",0
+"153","NON","MQHPLE",6,"NonABP",0
+"11651","NON","MTELARLKFYATQPHPCSYLPEEQATTLFLDP",32,"NonABP",0
+"1324","NON","MSEPTSRRPAYARLLDRAVRILAVRDHSEQELRRKLSAPVMGK",43,"NonABP",0
+"850","NON","MSRTKGGTVTHARHKKVIK",19,"NonABP",0
+"1053","NON","MRHQKSGRKFNRTDAHRGAMFSNMVA",26,"NonABP",0
+"538","NON","MLAKRIIPCLDI",12,"NonABP",0
+"139","NON","MSMLCYTLI",9,"NonABP",0
+"631","NON","MDNQEKKTNYQNT",13,"NonABP",0
+"6211","NON","MNDRMVWIDCEMT",13,"NonABP",0
+"1101","NON","MKAVIILGLVLLSVTVQGKIFERCELAR",28,"NonABP",0
+"980","NON","MARKKAALDFEQSLADLQTLVERL",24,"NonABP",0
+"13061","NON","MQLSLTQARTWKGLLLLVSCMILWISVTPTPYDQMSNEELYD",42,"NonABP",0
+"1197","NON","MVFGFGKDDDKDKNDRRDNDSYGSSNRRNNDDS",33,"NonABP",0
+"490","NON","MDLNLRHAVIAN",12,"NonABP",0
+"716","NON","DLWQFNKMIKKEVGKL",16,"NonABP",0
+"1070","NON","MLDKKVLEILVCPLTGGKLSYDTERAE",27,"NonABP",0
+"8571","NON","MSGDENPASKPTPVQDVQGD",20,"NonABP",0
+"127","NON","MKIVISKPD",9,"NonABP",0
+"955","NON","MLTAKFDQLVKQLRILPGVGQKS",23,"NonABP",0
+"390","NON","MMSQTLTLCCLG",12,"NonABP",0
+"1262","NON","MKRSKKYLAVSQMFDIKKRYPLQEAIKLTKQSQITKF",37,"NonABP",0
+"963","NON","MSLRPCFVSLIDESDKPILIYVP",23,"NonABP",0
+"116","NON","MMACRTLCL",9,"NonABP",0
+"1228","NON","MSKKYGGQISFDPPARLEKDQVVAKVVQLKGSALF",35,"NonABP",0
+"818","NON","MVGKALGLEFNKKIINTL",18,"NonABP",0
+"78","NON","MSGKTITR",8,"NonABP",0
+"1271","NON","MPFVVVITGIPGVGKSTITKLALKKTRAKFRLVNFGDL",38,"NonABP",0
+"1212","NON","MSAGGDFGNPLRKFKLVFLGEQSVGKTSLITRFM",34,"NonABP",0
+"1230","NON","MTTQDELKRIAAEKAVEFVPENEYIGIGTGSTINF",35,"NonABP",0
+"302","NON","MMILVTGGA",9,"NonABP",0
+"710","NON","MTIEQDLSRIAEQEK",15,"NonABP",0
+"2441","NON","MDQLQQSLL",9,"NonABP",0
+"11351","NON","MAMYPRELKWGVAHIYSSFNNTHVHITDLT",30,"NonABP",0
+"13031","NON","MTDLRHYDVIVSPSITEKSTLVSEQNQVVFNVAKTASKPEI",41,"NonABP",0
+"2031","NON","MIVHNICHP",9,"NonABP",0
+"1176","NON","MKRRPTSKAWLQEHVNDEFVKRAQRDGYRARA",32,"NonABP",0
+"11511","NON","MTKAIPKIGSRRKVRIGLRRNARFSLRKSAR",31,"NonABP",0
+"9981","NON","MDISTDNPDHGFQFPGTFELSAMG",24,"NonABP",0
+"6811","NON","MKTVPTLSFSKLGCS",15,"NonABP",0
+"170","NON","MLYKDIKVS",9,"NonABP",0
+"11431","NON","MAEITVELVSVERMLWSGQASIVTAQTTEG",30,"NonABP",0
+"5921","NON","MARIAGVDIPRNK",13,"NonABP",0
+"5651","NON","MSRKKPNILEHE",12,"NonABP",0
+"7311","NON","VVGGDECNINEHPFLV",16,"NonABP",0
+"75","NON","MTLLPGLL",8,"NonABP",0
+"542","NON","MSVKYIATSKLP",12,"NonABP",0
+"666","NON","MVNYPHQLIRKTTV",14,"NonABP",0
+"970","NON","MVPLDKDNQDICPICLDPLKEAV",23,"NonABP",0
+"52","NON","MSRLWLSG",8,"NonABP",0
+"83","NON","MIPGEVIP",8,"NonABP",0
+"950","NON","MNHKVLLINGPNLNLLGRREPSV",23,"NonABP",0
+"1286","NON","MAAPEQIAGEFENWLNERLDSLEVDREVYGAYILGVLQE",39,"NonABP",0
+"13801","NON","MSWQEAEVRELKVGRYILIDDVPCKIVEITMSKPGKHGEAKGRIVAIGV",49,"NonABP",0
+"13411","NON","MNRFFGKAKPKAPPPSLTDCIGTVDSRAESIDKKISRLDAELVKY",45,"NonABP",0
+"1121","NON","MKNHLLFWGVLAVFIKAVHVKAQEDERIV",29,"NonABP",0
+"1152","NON","MLVEIKAQLKAHCEVMTALQGELSPAIESAV",31,"NonABP",0
+"450","NON","MIVVQKQLINSQ",12,"NonABP",0
+"10771","NON","MNIRNTLVLLVSTVLVLMSCSIGCYAG",27,"NonABP",0
+"770","NON","MKSGLWYFFLFCLRIKV",17,"NonABP",0
+"1661","NON","MKLPWLAAD",9,"NonABP",0
+"599","NON","MANLERTFIAIKP",13,"NonABP",0
+"4051","NON","MDHKAYMYVLEC",12,"NonABP",0
+"3791","NON","MLNVKEIFEYLP",12,"NonABP",0
+"1092","NON","MKNKLITFKNNNFTALVIYLENINFKYF",28,"NonABP",0
+"3421","NON","MARSIKKGPFV",11,"NonABP",0
+"1108","NON","MEVDCRVISRGKGRGPVLVSTEPLSFLGG",29,"NonABP",0
+"4871","NON","MSGFKGYLSTVP",12,"NonABP",0
+"1287","NON","MSEEKKDEILEQETVETKEEIKTEEAEQKTESLEEKVAR",39,"NonABP",0
+"12061","NON","MRYAVLLAVVLLLGAFTAEAFSPPPFHICKWKLW",34,"NonABP",0
+"205","NON","MAEENKATE",9,"NonABP",0
+"502","NON","MEGDVLSGFGDR",12,"NonABP",0
+"4881","NON","APVPGLSPFRVV",12,"NonABP",0
+"685","NON","MVEPLLSGIVLGLIP",15,"NonABP",0
+"926","NON","MNEIQEPIRLVLLRHGQSIWNQ",22,"NonABP",0
+"4971","NON","MAVETIQKPETT",12,"NonABP",0
+"10","NON","MIRKA",5,"NonABP",0
+"1236","NON","MEKYQSDFIQLAIKHQALCFGEFVLKSGRTSPYFFN",36,"NonABP",0
+"177","NON","MGVLLTQRT",9,"NonABP",0
+"610","NON","MSQIESPNPEPVF",13,"NonABP",0
+"8881","NON","MATTPLLLLLLTAVFLSTEI",20,"NonABP",0
+"171","NON","MNNKINNIK",9,"NonABP",0
+"845","NON","MAVERIVISTGKRKRAIAR",19,"NonABP",0
+"861","NON","MENIQLINIGFGNIVSANRV",20,"NonABP",0
+"10981","NON","MPTINQLVRKGREKGEQKSTAPALKSCP",28,"NonABP",0
+"13131","NON","MELQIGRVIKPHGVRGEVVVDPTTDTPELRFATGEVLKGKQA",42,"NonABP",0
+"4171","NON","MPDYTREMQHGG",12,"NonABP",0
+"470","NON","MAKFLSQDQINE",12,"NonABP",0
+"136","NON","MGDPKYPRR",9,"NonABP",0
+"468","NON","MMCYDNSEMLSR",12,"NonABP",0
+"4791","NON","MKPKNWLILKRK",12,"NonABP",0
+"817","NON","MRHQKSGRKFNRTSAHRE",18,"NonABP",0
+"654","NON","MTADTQIPRATAQR",14,"NonABP",0
+"9301","NON","MKIRPLHDRVLVKRQEVESKSA",22,"NonABP",0
+"669","NON","MNWRSERIWIELIT",14,"NonABP",0
+"878","NON","MKVTVVYYPGDPAAKGAAEA",20,"NonABP",0
+"2331","NON","PDYLQLARA",9,"NonABP",0
+"151","NON","MRLHSLILL",9,"NonABP",0
+"1214","NON","MRDSVLSVI",9,"NonABP",0
+"1196","NON","MAARVCCQLDPARDVLCLRPVGAESRGRPVSGP",33,"NonABP",0
+"1363","NON","MLWLGFIALGVAIIIAAIIWVLLYKEYKKIKLQEKIEQIRQKIRDRT",47,"NonABP",0
+"149","NON","IEVLLGSDD",9,"NonABP",0
+"8151","NON","TLYFIFGIWSGLLGTSLS",18,"NonABP",0
+"1362","NON","MATSFCSSISMQAPFSATTTRFCLNKQATIFNNEKTNNLSFSLRRLM",47,"NonABP",0
+"1015","NON","MSDTAERVKKIVVEHLGVDADKVT",24,"NonABP",0
+"1013","NON","MAADDHIEMEGVVEEALPGTLFRV",24,"NonABP",0
+"11931","NON","MARENKKDLIGKVVSDKMSKTIVVEIVQRKMHP",33,"NonABP",0
+"10961","NON","MSRIGKRPIPLPKNVTLTLDGQQVTVKG",28,"NonABP",0
+"1347","NON","MSDEDFDLDLDDLKRRMDGALASLRTEFASLRTGRASASMLEPVMV",46,"NonABP",0
+"6471","NON","MGQKVHPRGFRLGI",14,"NonABP",0
+"1225","NON","MTSSTTTAVPGLLLAGGLARRMGGGDKPMRVIAGR",35,"NonABP",0
+"102","NON","MEIKDQDKA",9,"NonABP",0
+"1207","NON","MRHYEIVFIVHPDQSEQVPAMIERYKSLVTSQGG",34,"NonABP",0
+"33","NON","MKFAVVV",7,"NonABP",0
+"751","NON","MGEVAATMKIMPEGVDT",17,"NonABP",0
+"174","NON","MPTIVEELV",9,"NonABP",0
+"1355","NON","MPDFSIENEISKSINKKNCIIVGVDEVGYGSLAGPVVSAASFFLRH",46,"NonABP",0
+"1278","NON","MKRIVLIRHGESLWNKENRFTGWTDVDLSEKGIEEAKKA",39,"NonABP",0
+"959","NON","MKKLTKISTALLIAGLGFSFAAS",23,"NonABP",0
+"21","NON","MASPH",5,"NonABP",0
+"8431","NON","MSKIKLFDLSGKVQEEIEL",19,"NonABP",0
+"8891","NON","ATSAAQGAALDESVRKVLKP",20,"NonABP",0
+"915","NON","MSRVNPADLNLTDRVVHISRV",21,"NonABP",0
+"202","NON","MKIIPAIDL",9,"NonABP",0
+"56","NON","MAKSKKKS",8,"NonABP",0
+"723","NON","VKTPITEAIAAADTQG",16,"NonABP",0
+"713","NON","MGQDTRSLVLVVLVG",15,"NonABP",0
+"104","NON","MTQRIASHS",9,"NonABP",0
+"1008","NON","MIMGQLMNMRELFNKKKLHALVFS",24,"NonABP",0
+"1326","NON","MVPKLFTSQICLLLLLGLMGVEGSLHARPPQFTRAQWFAIQHI",43,"NonABP",0
+"831","NON","MLKLFVKYTSIGVLNTLIH",19,"NonABP",0
+"222","NON","KHSLPDLPY",9,"NonABP",0
+"1033","NON","MARVTVQDAVEKVGNRFDLVLIAAR",25,"NonABP",0
+"677","NON","MGAASGRRSPPLLLP",15,"NonABP",0
+"13491","NON","MAKRSKAYLAAAEKVDRTKLYSPLAAARLAKETATTKTDATVEVAV",46,"NonABP",0
+"389","NON","MPYVHVELFEGR",12,"NonABP",0
+"58","NON","MAKKSLIY",8,"NonABP",0
+"551","NON","DLQNVNIT",8,"NonABP",0
+"496","NON","MKTFSIKSSNIK",12,"NonABP",0
+"8141","NON","MKPNTKFNQKTKPRPSSL",18,"NonABP",0
+"13271","NON","MPIIAVIDYDMGNLHSACKGLQEAGTQTIVSDRPEDLVSADAV",43,"NonABP",0
+"516","NON","MFKEYKIYKFFE",12,"NonABP",0
+"9781","NON","MSITPERKQEMIKDYATKEGDTG",23,"NonABP",0
+"673","NON","MAATFALHGWWRTS",14,"NonABP",0
+"1219","NON","MKLSDLRPNPGANKRRKRVGRGPGSGHGKTATRGH",35,"NonABP",0
+"651","NON","MSDLRKTL",8,"NonABP",0
+"9061","NON","MSTIEAEKPRTEVSPRLKLVL",21,"NonABP",0
+"118","NON","MAFDKKLLE",9,"NonABP",0
+"1042","NON","MKKKTTLSEEDQALFRQLMAGTRKI",25,"NonABP",0
+"438","NON","MLFGTYEHCMDA",12,"NonABP",0
+"993","NON","MYAVFQSGGKQHRVAEGHTVRLEK",24,"NonABP",0
+"503","NON","MRVRALRLAALV",12,"NonABP",0
+"872","NON","MIQQQTLLKVADNSGAKEIM",20,"NonABP",0
+"1160","NON","MPIKPLIILPDPILREVSKPVEHVDSTIQKL",31,"NonABP",0
+"13141","NON","MFIGIVSLFPEMFRAITDYGVTGRAVKKGLLNIQSWSPRDFA",42,"NonABP",0
+"12631","NON","MFLYVIAYDIPDDRRRKKMADLLEGYGQRVQYSVFEC",37,"NonABP",0
+"313","NON","MSTIPFSPK",9,"NonABP",0
+"358","NON","VPPGFTPFRVD",11,"NonABP",0
+"99","NON","MVKLAFPRE",9,"NonABP",0
+"163","NON","MGSGTAPKG",9,"NonABP",0
+"645","NON","MESTINIENVVAST",14,"NonABP",0
+"7341","NON","MKRTFQPSRLVRARRH",16,"NonABP",0
+"288","NON","MIILPAIDL",9,"NonABP",0
+"183","NON","MNNILKNDW",9,"NonABP",0
+"1352","NON","MKSVVTTVVTAADAAGRFLSQNDLEAVQGNIQRAAARLEAAEKLAA",46,"NonABP",0
+"157","NON","MQIYLDTAN",9,"NonABP",0
+"324","NON","MEKTVIYLL",9,"NonABP",0
+"574","NON","MQIRYAGHSCFI",12,"NonABP",0
+"999","NON","VISAEIMQVHHQKHHATYVNNLNA",24,"NonABP",0
+"826","NON","MSILSIVLTGFGLAMDAF",18,"NonABP",0
+"1161","NON","MKKSTLINSEVSRLIATLGHTDEITICDAGLP",32,"NonABP",0
+"813","NON","MNKLLQCHQVSKIYREGE",18,"NonABP",0
+"8491","NON","MRITYPSIDKLLDEVDSRY",19,"NonABP",0
+"191","NON","MKLRVLAVG",9,"NonABP",0
+"109","NON","MSTETASGP",9,"NonABP",0
+"13281","NON","MKGLIQRVSEASVAVDGETIARIGPGLLLLLGVERNDTLNEAK",43,"NonABP",0
+"13831","NON","MSDSFSLIPLPLVDQRYAQALFNCVQEAGNVEKIERAVEDFLFVLEQNED",50,"NonABP",0
+"704","NON","MENRWQVMIVWQVDR",15,"NonABP",0
+"765","NON","MAELTTLARPYAKAAFE",17,"NonABP",0
+"1036","NON","MENLKATELRLGLPGTEEEAAPPPS",25,"NonABP",0
+"230","NON","MERLLIVNA",9,"NonABP",0
+"498","NON","MVKDILAPGLRV",12,"NonABP",0
+"909","NON","MFLFDTLSKKTTMPTEETALP",21,"NonABP",0
+"320","NON","MRCLKAVVA",9,"NonABP",0
+"3451","NON","MPLLTTGKSFI",11,"NonABP",0
+"8831","NON","MKIYEGRLTAEGLKVGIIVS",20,"NonABP",0
+"84","NON","MAVLVNNL",8,"NonABP",0
+"7551","NON","MAKEEAIEIEGVILDAL",17,"NonABP",0
+"670","NON","MGSRPRGALSLLLL",14,"NonABP",0
+"768","NON","MPKSVIIPAGSSAPLAP",17,"NonABP",0
+"57","NON","LPVYNFGL",8,"NonABP",0
+"1285","NON","MAEGDNRSSNLLAVETASLEEQLQGWGEVMLMADKVLRW",39,"NonABP",0
+"2591","NON","MFAIIETGG",9,"NonABP",0
+"260","NON","APSGFMGMR",9,"NonABP",0
+"461","NON","MGMLEARELLCE",12,"NonABP",0
+"4391","NON","MNILLTNDDGIQ",12,"NonABP",0
+"8221","NON","MYLRSRAIVIKNMDYRES",18,"NonABP",0
+"49","NON","MADIIKLH",8,"NonABP",0
+"1091","NON","MAFHLLNLFLSAGTSSEAATSSAVGMIG",28,"NonABP",0
+"11471","NON","MAAALAVRGAVSAPAFGPEALTPDWENREV",30,"NonABP",0
+"1335","NON","MLEVKNLTAIRDERILFESLSFEIHAGELVQIEGRNGTGKTTLL",44,"NonABP",0
+"905","NON","MVKKPFNWWLWTKMLVAGGAI",21,"NonABP",0
+"334","NON","MKVSLFITCL",10,"NonABP",0
+"1025","NON","MVKEIILASKSGVRKKILEENNIQF",25,"NonABP",0
+"1118","NON","MRTQSLLLLGALLAVGSQLPAVFGRKKGE",29,"NonABP",0
+"780","NON","MIETYNQPSPRSAATGL",17,"NonABP",0
+"347","NON","MSQKRLSRVIY",11,"NonABP",0
+"249","NON","MISRTIRIL",9,"NonABP",0
+"949","NON","MNIIEQIEKEEIARLTANKTIPA",23,"NonABP",0
+"5461","NON","MRSGVFVAVLVV",12,"NonABP",0
+"329","NON","MEVTDVRLRR",10,"NonABP",0
+"795","NON","MSDKNPRYSRILLKLSGE",18,"NonABP",0
+"62","NON","MIGLVGKK",8,"NonABP",0
+"11441","NON","MTLNLCVLTPNRIVWDSKVKEIILSTNSGQ",30,"NonABP",0
+"9011","NON","SRLPPATRDKLADEITFFPA",20,"NonABP",0
+"1381","NON","MAVAANKRSVMTLFSGPTDIYSHQVRIVLAEKGVSFEIEHVEKDNPPQD",49,"NonABP",0
+"341","NON","MGVIEFLFALA",11,"NonABP",0
+"8751","NON","MAPKKAPAAAEKKVKKAPTT",20,"NonABP",0
+"4421","NON","MPPKKDTKASAK",12,"NonABP",0
+"221","NON","MPMDIQ",6,"NonABP",0
+"932","NON","MKIVGITGGIGSGKTTVCRYLK",22,"NonABP",0
+"1180","NON","MDSRTGELLTYTQCQTGCYFDDIKNPIYFRLQN",33,"NonABP",0
+"9311","NON","MPSLLLVVFILQLLLHIINTVG",22,"NonABP",0
+"7021","NON","MSKKPAKDKAKSATA",15,"NonABP",0
+"816","NON","MKKFYSCLPVFLLIGCAQ",18,"NonABP",0
+"591","NON","MLQISNLLLAADF",13,"NonABP",0
+"767","NON","MYIDITIDLKHYNGSVF",17,"NonABP",0
+"881","NON","DLVFYCPKCTAERQTACPKL",20,"NonABP",0
+"737","NON","MALNLQDKQAIVAEVT",16,"NonABP",0
+"2901","NON","MKIRASVRQ",9,"NonABP",0
+"13581","NON","MACGATLKRTLDFDPLLSPASPKRRRCAPLSAPASAAASPAAATAA",46,"NonABP",0
+"1232","NON","MLSIVLAIVAVVVDQVTKWLVATRMALHSEIEIIP",35,"NonABP",0
+"430","NON","MNAKAEAKESRF",12,"NonABP",0
+"295","NON","SIAFSRAVF",9,"NonABP",0
+"306","NON","MFDQTTQPE",9,"NonABP",0
+"1140","NON","MEERRSRMGLNSPTSKVAYAGGTVTGAAGT",30,"NonABP",0
+"3321","NON","MSKDDVIQMQ",10,"NonABP",0
+"596","NON","MAEEIEKSVPTEE",13,"NonABP",0
+"1188","NON","MLEKFTVIRGKAVPLRGEDIDTDRILPARFMKV",33,"NonABP",0
+"4671","NON","MNLISIPAFQDN",12,"NonABP",0
+"354","NON","MMAGLSNAVSS",11,"NonABP",0
+"1315","NON","MDARLLEILVCPICKGPLSYDRAAQELICNADKLAYPIRDGI",42,"NonABP",0
+"6591","NON","MSKGHSLQDPYLNT",14,"NonABP",0
+"9161","NON","MKKLLLIAATSATVLSSALSF",21,"NonABP",0
+"123","NON","AGGVKTVTL",9,"NonABP",0
+"416","NON","MSERNDRKVYVG",12,"NonABP",0
+"394","NON","MTETEFLALVDQ",12,"NonABP",0
+"172","NON","VLDELTADR",9,"NonABP",0
+"1357","NON","MINQHPKRSDEPVFWGLFGAGGMWCAIIAPVIIMLVGILLPLGIGP",46,"NonABP",0
+"803","NON","MSFNIFIASDHTGLTLKK",18,"NonABP",0
+"629","NON","MRILVTNDDGIQS",13,"NonABP",0
+"526","NON","MAHTAFETSLDT",12,"NonABP",0
+"12581","NON","MSTEMMTTEPVPPLELSDDILGKLDPQCSPSDDLSDQ",37,"NonABP",0
+"1017","NON","MGQKVNPHGLRVGVIKDWDSKWYA",24,"NonABP",0
+"927","NON","MAKRVQLVLKEDILSLGKDGDV",22,"NonABP",0
+"694","NON","MKTFSAKPAEVNKKW",15,"NonABP",0
+"777","NON","MIGLIQRVSQAAVRVDG",17,"NonABP",0
+"661","NON","MFDILMYLFENFIH",14,"NonABP",0
+"912","NON","MKIGIIGAMEPEVAHLIQSLT",21,"NonABP",0
+"1338","NON","MATNNGDVLMLEATPEAARPWASAANAEVIDALPYIDDDYGNPL",44,"NonABP",0
+"774","NON","MLIEHEVAFVLHVRPWR",17,"NonABP",0
+"173","NON","MDIRSHIRT",9,"NonABP",0
+"408","NON","MENKLLSSQEIQ",12,"NonABP",0
+"11531","NON","MLKANRLSIYAIGKIKKKWIREGINQYKKRM",31,"NonABP",0
+"855","NON","MTTGLSLDEGKVIEGRPKAL",20,"NonABP",0
+"4261","NON","MTKEEAIEVDGV",12,"NonABP",0
+"1332","NON","MSLVNEKLKLENIRSALIRQEDTIIFNFLERAQFPRNEKVYKSG",44,"NonABP",0
+"20","NON","MAQLYY",6,"NonABP",0
+"1","NON","MSLRA",5,"NonABP",0
+"433","NON","MVKAVCVLRGDA",12,"NonABP",0
+"10031","NON","MARVKRGVTSHAKHKKTLKAAKGF",24,"NonABP",0
+"12131","NON","MRFPTPLIPATLIKRYKRFLADCRLEDGREITAH",34,"NonABP",0
+"150","NON","MNSLEQAED",9,"NonABP",0
+"6281","NON","MSNPELPIKFTDS",13,"NonABP",0
+"8651","NON","MLDREGYRPNVGIILCNGRN",20,"NonABP",0
+"200","NON","MGLFSFPKE",9,"NonABP",0
+"366","NON","MGSPLQTLSRGG",12,"NonABP",0
+"4601","NON","MFWKLSLTLLLV",12,"NonABP",0

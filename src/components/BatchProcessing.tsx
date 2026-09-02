@@ -1,4 +1,5 @@
 import { useRef, useState, type ChangeEvent } from 'react';
+import { toast } from 'sonner';
 import type { Analysis } from '../types';
 
 interface BatchProcessingProps {
@@ -10,9 +11,30 @@ interface BatchProcessingProps {
 const BatchProcessing = ({ recentAnalyses, handleBatchPredict, isPredicting }: BatchProcessingProps) => {
   const fileInputRef = useRef<HTMLInputElement>(null);
   const [selectedFile, setSelectedFile] = useState<File | null>(null);
+  const [isLoadingExample, setIsLoadingExample] = useState(false);
 
   const handleBrowseClick = () => {
     fileInputRef.current?.click();
+  };
+
+  const handleLoadExample = async () => {
+    if (isLoadingExample) return;
+    setIsLoadingExample(true);
+    try {
+      const response = await fetch(`${import.meta.env.BASE_URL}example_dataset.csv`);
+      if (!response.ok || response.headers.get('content-type')?.includes('text/html')) {
+        throw new Error(`Failed to load example dataset (status ${response.status})`);
+      }
+      const blob = await response.blob();
+      const file = new File([blob], 'example_dataset.csv', { type: 'text/csv' });
+      setSelectedFile(file);
+    } catch (error: any) {
+      toast.error('Could not load example dataset', {
+        description: error.message || 'An unexpected error occurred.'
+      });
+    } finally {
+      setIsLoadingExample(false);
+    }
   };
 
   const handleFileChange = (event: ChangeEvent<HTMLInputElement>) => {
@@ -97,7 +119,25 @@ const BatchProcessing = ({ recentAnalyses, handleBatchPredict, isPredicting }: B
               </>
             )}
           </div>
-          
+
+          <button
+            disabled={isLoadingExample}
+            onClick={handleLoadExample}
+            className="btn btn-outline w-full h-10 shrink-0 mb-6 rounded-lg font-bold text-[11px] tracking-[0.2em] uppercase transition-all flex items-center justify-center gap-2 font-sans disabled:opacity-50 disabled:cursor-not-allowed"
+          >
+            {isLoadingExample ? (
+              <>
+                <span className="material-symbols-outlined animate-spin text-sm">refresh</span>
+                Loading Example...
+              </>
+            ) : (
+              <>
+                <span className="material-symbols-outlined text-sm">dataset</span>
+                Load Example Dataset
+              </>
+            )}
+          </button>
+
           <div className="space-y-6 mb-8 flex-1 min-h-0 overflow-y-auto pr-2 custom-scrollbar lg:max-h-none max-h-[300px]">
             <div className="space-y-4">
               <div className="text-[10px] text-on-surface-variant/40 font-bold uppercase tracking-[0.2em] mb-4 font-sans">Input Specification</div>
