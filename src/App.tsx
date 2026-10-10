@@ -70,10 +70,9 @@ function App() {
     if (!file) return;
     setIsBatchPredicting(true);
     try {
-      const response = await inference_batch(file)
-      const data = await response.json();
-      
-      const mappedResults: Analysis[] = data.map((item: any, index: number) => ({
+      const data = await inference_batch(file)
+
+      const mappedResults: Analysis[] = data.map((item, index) => ({
         id: `BATCH_${index.toString().padStart(3, '0')}`,
         name: item.sequence || `Seq_${index}`,
         timestamp: new Date().toISOString().replace('T', ' ').substr(0, 16),

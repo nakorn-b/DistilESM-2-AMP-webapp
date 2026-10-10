@@ -27,3 +27,11 @@ dist-ssr
 .env
 *storybook.log
 storybook-static
+.impeccable
+.storybook
+.claude
+design
+PRODUCT.md
+docs/
+src/stories/
+
