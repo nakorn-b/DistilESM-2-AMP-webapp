@@ -40,6 +40,7 @@ typography:
   display: "Inter, sans-serif"
   body: "Inter, sans-serif"
   mono: "ui-monospace, Cascadia Code, Source Code Pro, Menlo, Monaco, Consolas, monospace"
+  serif: "Georgia, 'Times New Roman', serif"
 rounded:
   sm: 0.125rem
   DEFAULT: 0.25rem
@@ -85,6 +86,7 @@ Inter is used across all levels for its systematic tone and exceptional legibili
 - **Display & Headline (Inter, 600-700):** Used sparingly for headings to maintain a clean architecture.
 - **Body (Inter, 400-500):** Used for UI text and data interpretation.
 - **Mono (System Mono):** Reserved for peptide sequences or amino acid strings to ensure character alignment.
+- **Serif (Georgia):** Reserved for editorial moments, methodology descriptions, pull-quotes, and manuscript excerpts, where a document-like register is intentional. Not for UI labels, buttons, or data values.
 
 ### Rules
 **The Alignment Rule.** For protein sequences or raw data values, always use monospaced fonts (`mono`) and ensure character-perfect alignment to prevent misinterpretation of scientific data.
