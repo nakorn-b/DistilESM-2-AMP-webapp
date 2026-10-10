@@ -25,7 +25,8 @@ prediction, upload `public/example_dataset.csv`.
 
 ## Contact
 
-Nakorn Boonprasong 
-Email: boonprasongnakorn@gmail.com
-[Hugging Face @NakornB](https://huggingface.co/NakornB)
-[Linkedln](https://www.linkedin.com/in/nakornb/)
+**Nakorn Boonprasong**
+
+- Email: boonprasongnakorn@gmail.com
+- Hugging Face: [@NakornB](https://huggingface.co/NakornB)
+- LinkedIn: [nakornb](https://www.linkedin.com/in/nakornb/)
